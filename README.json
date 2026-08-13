@@ -1,0 +1,1566 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "motionEyeOS",
+          "description": "Linux distribution that turns a single-board computer into a video surveillance system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2025-02-14T15:47:26Z",
+            "owner": "motioneye-project",
+            "repo": "motioneyeos",
+            "stars": 8208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NextCloudPi",
+          "description": "Nextcloud ready image based on Raspbian. Features Nextcloud 11 running on Raspbian 8, with PHP 7 and HTTP2 enabled Apache server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-27T04:11:36Z",
+            "owner": "nextcloud",
+            "repo": "nextcloudpi",
+            "stars": 2931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chilipie-kiosk",
+          "description": "Image which boots directly into full-screen Chrome, perfect for dashboards and build monitors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-04-04T14:41:58Z",
+            "owner": "jareware",
+            "repo": "chilipie-kiosk",
+            "stars": 1399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DroneBridge",
+          "description": "A WifiBroadcast extension to make for a real alternative to DJI Lightbridge and other similar systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-01-07T15:36:13Z",
+            "owner": "DroneBridge",
+            "repo": "DroneBridge",
+            "stars": 942
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EZ-WifiBroadcast",
+          "description": "Affordable Wireless Digital HD Video Transmission made easy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-31T14:53:54Z",
+            "owner": "rodizio1",
+            "repo": "EZ-WifiBroadcast",
+            "stars": 897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mainsail OS",
+          "description": "A distribution for 3D Printers that includes everything to get started with Klipper Firmware and Mainsail.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-14T09:52:10Z",
+            "owner": "mainsail-crew",
+            "repo": "MainsailOS",
+            "stars": 744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PIrateRF",
+          "description": "Turns a Raspberry Pi Zero W into a portable, browser-controlled RF transmitter with its own WiFi hotspot, supporting a dozen modes including FM broadcast, FT8, RTTY, POCSAG, and Morse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T19:49:42Z",
+            "owner": "psyb0t",
+            "repo": "piraterf",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DietPi",
+          "description": "Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-20T18:06:54Z",
+            "owner": "Fourdee",
+            "repo": "DietPi",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RasComm RaspberryPi MorseCode Translator",
+          "description": "RasComm is a communication device that translates plain text into Morse code (IMC) visually or audibly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-25T11:24:52Z",
+            "owner": "Defcon27",
+            "repo": "RasComm-RaspberryPi-MorseCode-Translator",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GlowBarn OS",
+          "description": "Buildroot-based Linux distribution for paranormal research with EMF sensors, environmental monitoring, web dashboard and automated data logging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-11T04:23:16Z",
+            "owner": "bad-antics",
+            "repo": "glowbarn-os",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "OS Images"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pwnagotchi",
+          "description": "Pwnagotchi is an AI based Wi-Fi cracking tool that learns from its surrounding WiFi environment to maximize the crackable WPA key material it captures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-23T12:24:16Z",
+            "owner": "evilsocket",
+            "repo": "pwnagotchi",
+            "stars": 9167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiShrink",
+          "description": "Bash script that automatically shrinks a pi image that will then resize to the max size of the SD card on boot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-10T09:43:54Z",
+            "owner": "Drewsif",
+            "repo": "PiShrink",
+            "stars": 4091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pi-gen",
+          "description": "Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-19T09:54:29Z",
+            "owner": "RPi-Distro",
+            "repo": "pi-gen",
+            "stars": 3226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pi-Apps",
+          "description": "The most popular app store for Raspberry Pi computers, 100% open-source bash scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T00:52:23Z",
+            "owner": "Botspot",
+            "repo": "pi-apps",
+            "stars": 2791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiKISS",
+          "description": "A bunch of scripts with menu to make your life easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-27T22:38:05Z",
+            "owner": "jmcerrejon",
+            "repo": "PiKISS",
+            "stars": 1007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sdm",
+          "description": "Easily and fully customize RasPiOS images. Install apps, configure settings, etc then burn SSDs/SD cards for lots of different systems from a single image, and each one boots up fully configured and ready for work. Or play.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-05T21:22:35Z",
+            "owner": "gitbls",
+            "repo": "sdm",
+            "stars": 758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stressberry",
+          "description": "Stress test your Raspberry Pi and plot temperatures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-17T16:51:18Z",
+            "owner": "nschloe",
+            "repo": "stressberry",
+            "stars": 365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rpi MQTT Monitor",
+          "description": "The easiest way to track and control your Raspberry Pi or Ubuntu computer system health and performance in Home Assistant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-26T19:45:37Z",
+            "owner": "hjelev",
+            "repo": "rpi-mqtt-monitor",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iotwifi",
+          "description": "Wifi AP + Client management in 8MB Docker Container, with REST API for controlling wifi client and station modes simultaneously.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2019-01-28T06:05:20Z",
+            "owner": "cjimti",
+            "repo": "iotwifi",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atlas toolkit",
+          "description": "Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-27T12:42:23Z",
+            "owner": "epeios-q37",
+            "repo": "atlas-python",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pieman",
+          "description": "Script for creating custom images based on Raspbian, Devuan, Ubuntu and Alpine Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-01-11T17:27:07Z",
+            "owner": "tolstoyevsky",
+            "repo": "pieman",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HealthyPi",
+          "description": "HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-12-11T06:09:09Z",
+            "owner": "Protocentral",
+            "repo": "protocentral-healthypi-v3",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebStation SYSMON",
+          "description": "An intuitive remotely-accessible system performance monitoring and task management tool for servers and headless Raspberry Pi setups.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-02-20T22:40:38Z",
+            "owner": "gridhead",
+            "repo": "sysmon",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pimod",
+          "description": "Reconfigure Raspberry Pi images with an easy, Docker-like configuration file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-18T19:09:05Z",
+            "owner": "Nature40",
+            "repo": "pimod",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TorTiPi",
+          "description": "Shell script to automate the task of converting Raspberry Pi into a tor based wifi hotspot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-11-29T16:33:04Z",
+            "owner": "rosehgal",
+            "repo": "tortipi",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orangetool",
+          "description": "Control functions for Single-Board computers in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-09T08:05:05Z",
+            "owner": "Moduland",
+            "repo": "Orangetool",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ndm",
+          "description": "Command line tool to easily manage DNS and DHCP servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-26T01:18:12Z",
+            "owner": "gitbls",
+            "repo": "ndm",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pistrong",
+          "description": "Manage certificate-secured strongSwan VPNs. Installer and command-line tool for client-server, site-to-site, and host-to-host VPNs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-01-19T15:07:04Z",
+            "owner": "gitbls",
+            "repo": "pistrong",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alpha",
+          "description": "Remotely load, debug and test bare-metal programs using GDB with this system-level GDB server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-09-29T22:11:56Z",
+            "owner": "farjump",
+            "repo": "raspberry-pi",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiGro",
+          "description": "PiGro does many commands that have to be entered via the terminal with one or two clicks of a button.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T12:30:08Z",
+            "owner": "actionschnitzel",
+            "repo": "PiGro-Aid-",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RPi Monitor Dashboard",
+          "description": "Simple monitoring tool with a dashboard suitable for monitoring multiple RPi devices (CPU temperature, network, ping, browser, screenshot of X display etc.).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-05-28T15:08:17Z",
+            "owner": "nekromoff",
+            "repo": "rpi-monitor-dashboard",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resin Bridge",
+          "description": "Simple application/repo to bridge a Raspberry Pi's wlan0 interface to devices plugged into it over ethernet (eth0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-05-02T12:04:19Z",
+            "owner": "balena-io-experimental",
+            "repo": "balena-bridge",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pi Temperature Exporter",
+          "description": "a CPU and GPU temperature exporter for Prometheus consumption.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-08-09T00:21:52Z",
+            "owner": "s-nagaev",
+            "repo": "pi-temperature-exporter",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RaspAP-webgui",
+          "description": "A simple, responsive web interface to control wifi, hostapd and related services on the Raspberry Pi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-12-26T21:15:24Z",
+            "owner": "billz",
+            "repo": "raspap-webgui",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hardened Kernel Builder for RPi",
+          "description": "Cross-compile the Linux kernel for Raspberry Pi with enhanced security using a single command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-10-01T13:27:36Z",
+            "owner": "tschaffter",
+            "repo": "raspberry-pi-kernel-hardened",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rpi-cookstrap",
+          "description": "A lightweight, plugin based bakery shell script framework to customize, bootstrap & provision raspberry pi OS disk images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-26T09:41:43Z",
+            "owner": "heeplr",
+            "repo": "rpi-cookstrap",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "n01d-forge",
+          "description": "Native Rust image burner with LUKS/VeraCrypt encryption support, perfect for creating secure bootable SD cards for Raspberry Pi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-11T05:02:48Z",
+            "owner": "bad-antics",
+            "repo": "n01d-forge",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiPulse",
+          "description": "Monitor Raspberry Pi at all times without SSH.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-19T08:02:24Z",
+            "owner": "techtiki21",
+            "repo": "PiPulse",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AdGuard Home",
+          "description": "DNS relay station with ad/tracker/other blocking, IP address redirections, and DNS-over-HTTPS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:39:08Z",
+            "owner": "AdguardTeam",
+            "repo": "AdGuardHome",
+            "stars": 36085
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonic Pi",
+          "description": "The Live Coding Music Synth for Everyone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T16:51:53Z",
+            "owner": "sonic-pi-net",
+            "repo": "sonic-pi",
+            "stars": 12059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pi-KVM",
+          "description": "DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-09T22:00:01Z",
+            "owner": "pikvm",
+            "repo": "pikvm",
+            "stars": 10248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PoisonTap",
+          "description": "Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-26T16:50:44Z",
+            "owner": "samyk",
+            "repo": "poisontap",
+            "stars": 6474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "P4wnP1",
+          "description": "P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-12T05:02:48Z",
+            "owner": "RoganDawes",
+            "repo": "P4wnP1",
+            "stars": 4380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Mirror",
+          "description": "Voice controlled smart mirror with IoT integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-02T20:00:29Z",
+            "owner": "evancohen",
+            "repo": "smart-mirror",
+            "stars": 2818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Circle",
+          "description": "A C++ bare metal environment for Raspberry Pi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T08:49:02Z",
+            "owner": "rsta2",
+            "repo": "circle",
+            "stars": 2291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Secluso",
+          "description": "A private-by-default Raspberry Pi home security camera that uses end-to-end encryption. Supports Raspberry Pi Zero 2 W.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T06:31:59Z",
+            "owner": "secluso",
+            "repo": "core",
+            "stars": 1654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiFmRds",
+          "description": "FM-RDS transmitter using a Raspberry Pi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-01T10:52:49Z",
+            "owner": "ChristopheJacquet",
+            "repo": "PiFmRds",
+            "stars": 1582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CookCLI",
+          "description": "Turn your Raspberry Pi into a self-hosted recipe server. Manage recipes in plain-text Cooklang format with web UI, shopping lists, and meal planning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T19:16:07Z",
+            "owner": "cooklang",
+            "repo": "cookcli",
+            "stars": 1364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stratux",
+          "description": "Open source ADS-B receiver which feeds weather, traffic, GPS, and AHRS data to electronic flight bag software via wifi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-18T09:17:35Z",
+            "owner": "cyoung",
+            "repo": "stratux",
+            "stars": 1129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "speed-camera",
+          "description": "Object Motion Tracking uses python, openCV, USB Cam or picamera module to record speed data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-17T20:29:09Z",
+            "owner": "pageauc",
+            "repo": "speed-camera",
+            "stars": 1102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Looper/synth/drum thing",
+          "description": "Sequencer/Drumpad, like Native Instruments' Maschine for the Pi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-07-04T03:54:46Z",
+            "owner": "otem",
+            "repo": "Raspberry-Pi-Looper-synth-drum-thing",
+            "stars": 1028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haven",
+          "description": "Host a private blog on your Rasperry Pi instead of using Facebook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T17:46:06Z",
+            "owner": "havenweb",
+            "repo": "haven",
+            "stars": 800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonus",
+          "description": "Node.js voice control for your Pi (and everything else) with customizable offline hotword detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-02T19:09:52Z",
+            "owner": "evancohen",
+            "repo": "sonus",
+            "stars": 638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kubernetes on ARM",
+          "description": "Get your ARM device up and running Kubernetes in less than ten minutes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-06-07T06:36:57Z",
+            "owner": "luxas",
+            "repo": "kubernetes-on-arm",
+            "stars": 601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiClock",
+          "description": "Fancy Clock built around a monitor and a Raspberry Pi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-15T12:26:17Z",
+            "owner": "n0bel",
+            "repo": "PiClock",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pi-timolo",
+          "description": "Remote Headless multi feature PiCamera Operation from Rclone Remote Storage Service and More.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-07T10:47:44Z",
+            "owner": "pageauc",
+            "repo": "pi-timolo",
+            "stars": 580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RustChain",
+          "description": "Proof-of-Antiquity blockchain that rewards vintage and edge hardware including Raspberry Pi for mining. DePIN infrastructure for IoT devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:58:09Z",
+            "owner": "Scottcjn",
+            "repo": "Rustchain",
+            "stars": 576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DCS-BIOS",
+          "description": "Exports DCS World cockpit data (switches, lights, displays) over serial/UDP to Arduino, ESP32, or Raspberry Pi for physical panel builds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-12T22:32:11Z",
+            "owner": "DCS-Skunkworks",
+            "repo": "dcs-bios",
+            "stars": 426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network Presence Detector",
+          "description": "Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is \"home\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-09-22T21:09:15Z",
+            "owner": "initialstate",
+            "repo": "pi-sensor-free-presence-detector",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raspberry Pi Dashboard",
+          "description": "Full-featured web-based dashboard interface to inspect and manage Raspberry Pi hardware and software, with no extra software required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-06-26T12:52:43Z",
+            "owner": "femto-code",
+            "repo": "Raspberry-Pi-Dashboard",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RPi Motor Library",
+          "description": "Python 3 library to connect various motors & servos to the Pi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-11T13:33:21Z",
+            "owner": "gavinlyonsrepo",
+            "repo": "RpiMotorLib",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "USB Proxy",
+          "description": "A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-11T09:33:56Z",
+            "owner": "AristoChen",
+            "repo": "usb-proxy",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SecPi",
+          "description": "Raspberry Pi based home alarm system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-23T11:47:26Z",
+            "owner": "SecPi",
+            "repo": "SecPi",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lomorage",
+          "description": "Private photo cloud host on Raspberry Pi, with Android/iOS/Web client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-09T01:08:51Z",
+            "owner": "lomorage",
+            "repo": "homepage",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CocktailMaker",
+          "description": "An advanced cocktail making machine that can be controlled via browser and touchscreen.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-06T07:26:23Z",
+            "owner": "alex9849",
+            "repo": "CocktailPi",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Movel",
+          "description": "Raspberry Pi car computer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2015-12-21T22:39:37Z",
+            "owner": "stephenlacy",
+            "repo": "movel",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ble-scale-sync",
+          "description": "Reads BLE smart scales (23 brands) via built-in Bluetooth, calculates body composition, and exports to Garmin Connect, MQTT/Home Assistant, InfluxDB, and more. Website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T20:40:46Z",
+            "owner": "KristianP26",
+            "repo": "ble-scale-sync",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BotWave",
+          "description": "FM broadcasting system with server-client architecture for managing multiple Raspberry Pi transmitters remotely.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:55:26Z",
+            "owner": "dpipstudio",
+            "repo": "botwave",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hearing aid prototoype",
+          "description": "A Raspberry Pi powered prototype of a hearing aid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2021-10-20T09:29:04Z",
+            "owner": "m-r-s",
+            "repo": "hearingaid-prototype",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Internet Chronometer",
+          "description": "Turn your Raspberry Pi in to an Internet Chronometer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-31T16:36:25Z",
+            "owner": "rothman857",
+            "repo": "chronometer",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RPI tempmon",
+          "description": "CPU GPU temperature monitor with various functions such as LED GPIO, Graph output, email, alarm limit, notifications and logging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-29T14:36:58Z",
+            "owner": "gavinlyonsrepo",
+            "repo": "raspberrypi_tempmon",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docsis-cable-load-monitor",
+          "description": "Tool to monitor downstream load on DOCSIS cable networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-08-05T04:11:13Z",
+            "owner": "sp4rkie",
+            "repo": "docsis-cable-load-monitor",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clockOS",
+          "description": "simple smart desktop clock using a Raspberry Pi display.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-06-21T16:36:53Z",
+            "owner": "iGerli",
+            "repo": "clockOS",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raspberry Pi Setup",
+          "description": "⚡ Quickly setup my Raspberry Pi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-03T10:19:38Z",
+            "owner": "atao",
+            "repo": "raspberrypi-setup",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ceil",
+          "description": "Auto-provisioned RPi cluster running K8S on bare-metal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-12-09T08:37:10Z",
+            "owner": "helmut-hoffer-von-ankershoffen",
+            "repo": "ceil",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FistBump BLE Edition",
+          "description": "WPA Hash Grabbing Bluetooth Peripheral / Android App.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-11-24T15:31:22Z",
+            "owner": "eliddell1",
+            "repo": "Project-Blue-Fist",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bitcoin Tracker",
+          "description": "A Physical Dashboard that displays Bitcoin stats in real time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-26T18:17:35Z",
+            "owner": "jonathanrjpereira",
+            "repo": "Bitcoin-Bar",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wordpress using Docker",
+          "description": "Run a Wordpress site in containers with dynamic DNS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2016-09-04T15:56:59Z",
+            "owner": "rothgar",
+            "repo": "rpi-wordpress",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Display_Lib_RPI",
+          "description": "A shared installable C++ Library to connect various electronic displays to Raspberry Pi single board computers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-08T20:50:54Z",
+            "owner": "gavinlyonsrepo",
+            "repo": "Display_Lib_RPI",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HookProbe",
+          "description": "AI-native intrusion detection system with eBPF/XDP packet filtering and ML threat classification. Processes 8.8M+ security events on a Pi 5.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T03:05:39Z",
+            "owner": "hookprobe",
+            "repo": "hookprobe",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiFanTuner",
+          "description": "CPU-fan-tuner daemon, just enables your fan as necessary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-09-22T10:47:19Z",
+            "owner": "winkidney",
+            "repo": "PIFanTuner",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Waves",
+          "description": "Transforming the transience of the spoken word into something concrete and physical through a microphone, waveform and thermal printer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-04-01T00:35:35Z",
+            "owner": "euniceylee",
+            "repo": "waves",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TeslaCam",
+          "description": "Project utilizing a Raspberry Pi Zero W for USB Mass storage emulation and a PiJuice to collect and archive TeslaCam video.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-05-21T01:38:38Z",
+            "owner": "LelandSindt",
+            "repo": "teslacam",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raspberry Pi Telegram Bot",
+          "description": "Remotely control your Raspberry Pi using Telegram, with support for GPIO, system commands, custom modules, and real-time interaction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-16T19:30:30Z",
+            "owner": "GraveEaterMadison",
+            "repo": "Raspberry_pi_telegram_bot",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cama-Camel Pack",
+          "description": "A home-based irrigation system for efficient plant care using IoT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-02T13:18:32Z",
+            "owner": "Barqawiz",
+            "repo": "iot_watering_system",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pi_payments",
+          "description": "Payment module based on RFID.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-05-13T10:00:26Z",
+            "owner": "anshulahuja98",
+            "repo": "pi_payments",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DIY Arcade Machine",
+          "description": "A retro style arcade machine, based on a Raspberry Pi Pico, a Hub75 LED matrix and some other stuff (Wii Nunchucks, 3D printed parts, ...)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T17:34:40Z",
+            "owner": "SimonWaldherr",
+            "repo": "DIY-Arcade-Machine",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "idle-less",
+          "description": "Docker-based nginx reverse proxy that wakes sleeping servers via Wake-on-LAN, ideal for energy-saving Raspberry Pi homelabs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-12T22:10:46Z",
+            "owner": "tvup",
+            "repo": "idle-less",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NALIVATOR-9000",
+          "description": "Robot bartender for making cocktails with Telegram-bot interface and speech synthesis on Golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-10-29T08:12:09Z",
+            "owner": "fote",
+            "repo": "nalivator9000",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RaspiBlitz",
+          "description": "Fastest and cheapest way to get your own Lightning Node running.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-23T21:59:08Z",
+            "owner": "rootzoll",
+            "repo": "raspiblitz",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gaussmeter",
+          "description": "Project utilizing a Raspberry Pi Zero W, WS2812B Leds and the Tesla API to collect and display a Tesla's status.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-11-13T02:23:06Z",
+            "owner": "gaussmeter",
+            "repo": "gaussmeter",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drumbooth controller with touch interface",
+          "description": "Project using Java, JavaFX, Pi4J and Arduino to control 8 relays and LED strips.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-22T09:20:47Z",
+            "owner": "FDelporte",
+            "repo": "DrumBoothController",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pi Image Capturer",
+          "description": "Captures images, integrated with the Google IOT Cloud Platform ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-21T11:28:36Z",
+            "owner": "khadkarajesh",
+            "repo": "Pi-Image-Capturer",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Occu-Pi",
+          "description": "Controller software for the Occu-pi, a totally awesome bathroom door sensor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2018-06-20T03:36:10Z",
+            "owner": "bww",
+            "repo": "occu-pi",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RGB-LED-Matrix",
+          "description": "A 128x128 Pixel RGB LED Matrix to display images, animations, conways game of life and other stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-10-02T19:02:00Z",
+            "owner": "SimonWaldherr",
+            "repo": "RGB-LED-Matrix",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Relayboard Control",
+          "description": "A Qt application to connect a Waveshare 8-channel relay board to an MQTT server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-12-30T18:35:51Z",
+            "owner": "leinir",
+            "repo": "relayboard-control",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ultimate DNS Shield",
+          "description": "Self-hosted recursive DNS server using Pi-hole, Unbound and Docker on Raspberry Pi 4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-02T10:17:04Z",
+            "owner": "cherifon",
+            "repo": "Ultimate-DNS-Shield",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NanoBot AI Chat Robot",
+          "description": "Raspberry Pi powered AI chat robot, ideal for education and teaching assistance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-10T21:21:52Z",
+            "owner": "samartzidis",
+            "repo": "NanoBot",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CocktailTDI",
+          "description": "Another cocktail machine (powered by Raspberry Pi 4, Golang, a pneumatic pump and valves).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-23T21:53:09Z",
+            "owner": "SimonWaldherr",
+            "repo": "CocktailTDI",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiSpot-Show",
+          "description": "WiFi voucher display system with weather integration and PiJuice battery management.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-05-23T13:08:42Z",
+            "owner": "GeiserX",
+            "repo": "PiSpot-Show",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiSpot Watch",
+          "description": "Wrist-wearable Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand via button press.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-05-23T13:08:39Z",
+            "owner": "GeiserX",
+            "repo": "PiSpot-Watch",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TelePi",
+          "description": "Telepi allows you to monitor and control your Raspberry Pi via Telegram featuring file downloads, system monitoring, network insights, speed tests, and the ability to open web tunnels.",
+          "children": []
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Useful Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Moonlight",
+          "description": "Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-06T03:28:36Z",
+            "owner": "moonlight-stream",
+            "repo": "moonlight-embedded",
+            "stars": 1649
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raspbereum",
+          "description": "Run your own Ethereum node on a Raspberry Pi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-02-18T00:38:34Z",
+            "owner": "jim380",
+            "repo": "Raspbereum",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RasRobot 4WD TB6612FNG checklist",
+          "description": "Practical Raspberry Pi motor-driver checklist for debugging a 4WD robot with TB6612FNG drivers, common ground, standby pin and step-by-step motor tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-20T16:39:40Z",
+            "owner": "willoc2023",
+            "repo": "rasrobot-tb6612fng-4wd",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SwiftyGPIO",
+          "description": "Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-05-02T07:50:51Z",
+            "owner": "uraimo",
+            "repo": "SwiftyGPIO",
+            "stars": 1370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BuildSwiftOnARM",
+          "description": "All you need to build Swift on a RaspberryPi or other ARM boards, updated to Swift 4.1.3.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2021-12-08T11:14:03Z",
+            "owner": "uraimo",
+            "repo": "buildSwiftOnARM",
+            "stars": 488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swish",
+          "description": "Build Swift Projects on a remote machine within Xcode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-01-08T18:16:46Z",
+            "owner": "thomaspaulmann",
+            "repo": "Swish",
+            "stars": 274
+          }
+        }
+      ],
+      "title": "Swift programming"
+    },
+    {
+      "description": "Contribution guidelines can be found here",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:21:23.320Z",
+    "original_repository": "thibmaek/awesome-raspberry-pi",
+    "original_repository_sha": "8e140f45f5b1f33c57ea1f5d945cd8af0e32c88e",
+    "enhanced_repository": "enhansome/enhansome-raspberry-pi",
+    "enhanced_repository_description": null,
+    "title": "Awesome Raspberry Pi with stars"
+  }
+}
