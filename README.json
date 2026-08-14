@@ -98,7 +98,7 @@
             "last_commit": "2026-08-01T19:49:42Z",
             "owner": "psyb0t",
             "repo": "piraterf",
-            "stars": 276
+            "stars": 277
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2025-08-23T12:24:16Z",
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9167
+            "stars": 9171
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-05-10T09:43:54Z",
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4091
+            "stars": 4092
           }
         },
         {
@@ -199,7 +199,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T00:52:23Z",
+            "last_commit": "2026-08-14T02:59:34Z",
             "owner": "Botspot",
             "repo": "pi-apps",
             "stars": 2791
@@ -555,10 +555,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T14:39:08Z",
+            "last_commit": "2026-08-14T02:47:22Z",
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36085
+            "stars": 36099
           }
         },
         {
@@ -572,7 +572,7 @@
             "last_commit": "2026-08-12T16:51:53Z",
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12059
+            "stars": 12063
           }
         },
         {
@@ -586,7 +586,7 @@
             "last_commit": "2026-08-09T22:00:01Z",
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10248
+            "stars": 10249
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2018-11-26T16:50:44Z",
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6474
+            "stars": 6476
           }
         },
         {
@@ -656,7 +656,7 @@
             "last_commit": "2026-08-10T06:31:59Z",
             "owner": "secluso",
             "repo": "core",
-            "stars": 1654
+            "stars": 1655
           }
         },
         {
@@ -670,7 +670,7 @@
             "last_commit": "2026-02-01T10:52:49Z",
             "owner": "ChristopheJacquet",
             "repo": "PiFmRds",
-            "stars": 1582
+            "stars": 1583
           }
         },
         {
@@ -681,10 +681,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T19:16:07Z",
+            "last_commit": "2026-08-13T21:08:50Z",
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1364
+            "stars": 1365
           }
         },
         {
@@ -726,7 +726,7 @@
             "last_commit": "2021-07-04T03:54:46Z",
             "owner": "otem",
             "repo": "Raspberry-Pi-Looper-synth-drum-thing",
-            "stars": 1028
+            "stars": 1027
           }
         },
         {
@@ -787,6 +787,20 @@
         },
         {
           "node_type": "item",
+          "title": "RustChain",
+          "description": "Proof-of-Antiquity blockchain that rewards vintage and edge hardware including Raspberry Pi for mining. DePIN infrastructure for IoT devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T22:55:32Z",
+            "owner": "Scottcjn",
+            "repo": "Rustchain",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
           "title": "pi-timolo",
           "description": "Remote Headless multi feature PiCamera Operation from Rclone Remote Storage Service and More.",
           "children": [],
@@ -801,27 +815,13 @@
         },
         {
           "node_type": "item",
-          "title": "RustChain",
-          "description": "Proof-of-Antiquity blockchain that rewards vintage and edge hardware including Raspberry Pi for mining. DePIN infrastructure for IoT devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T17:58:09Z",
-            "owner": "Scottcjn",
-            "repo": "Rustchain",
-            "stars": 576
-          }
-        },
-        {
-          "node_type": "item",
           "title": "DCS-BIOS",
           "description": "Exports DCS World cockpit data (switches, lights, displays) over serial/UDP to Arduino, ESP32, or Raspberry Pi for physical panel builds.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-12T22:32:11Z",
+            "last_commit": "2026-08-13T22:33:10Z",
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
             "stars": 426
@@ -922,7 +922,7 @@
             "last_commit": "2026-05-06T07:26:23Z",
             "owner": "alex9849",
             "repo": "CocktailPi",
-            "stars": 192
+            "stars": 193
           }
         },
         {
@@ -950,7 +950,7 @@
             "last_commit": "2026-08-02T20:40:46Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -961,7 +961,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T12:55:26Z",
+            "last_commit": "2026-08-13T19:28:37Z",
             "owner": "dpipstudio",
             "repo": "botwave",
             "stars": 140
@@ -1556,7 +1556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:21:23.320Z",
+    "last_updated": "2026-08-14T03:16:33.766Z",
     "original_repository": "thibmaek/awesome-raspberry-pi",
     "original_repository_sha": "8e140f45f5b1f33c57ea1f5d945cd8af0e32c88e",
     "enhanced_repository": "enhansome/enhansome-raspberry-pi",
