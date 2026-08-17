@@ -14,7 +14,7 @@
             "last_commit": "2025-02-14T15:47:26Z",
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8209
+            "stars": 8210
           }
         },
         {
@@ -199,10 +199,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-15T12:19:42Z",
+            "last_commit": "2026-08-17T00:30:04Z",
             "owner": "Botspot",
             "repo": "pi-apps",
-            "stars": 2791
+            "stars": 2792
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2026-08-14T15:30:59Z",
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36133
+            "stars": 36161
           }
         },
         {
@@ -583,10 +583,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-15T23:02:50Z",
+            "last_commit": "2026-08-16T06:17:35Z",
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10251
+            "stars": 10256
           }
         },
         {
@@ -614,7 +614,7 @@
             "last_commit": "2024-08-12T05:02:48Z",
             "owner": "RoganDawes",
             "repo": "P4wnP1",
-            "stars": 4381
+            "stars": 4382
           }
         },
         {
@@ -653,7 +653,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T23:58:04Z",
+            "last_commit": "2026-08-16T23:51:07Z",
             "owner": "secluso",
             "repo": "core",
             "stars": 1656
@@ -670,7 +670,7 @@
             "last_commit": "2026-02-01T10:52:49Z",
             "owner": "ChristopheJacquet",
             "repo": "PiFmRds",
-            "stars": 1583
+            "stars": 1585
           }
         },
         {
@@ -698,7 +698,7 @@
             "last_commit": "2026-02-18T09:17:35Z",
             "owner": "cyoung",
             "repo": "stratux",
-            "stars": 1129
+            "stars": 1131
           }
         },
         {
@@ -782,7 +782,7 @@
             "last_commit": "2026-08-14T04:02:45Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 596
+            "stars": 599
           }
         },
         {
@@ -821,7 +821,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-15T22:12:40Z",
+            "last_commit": "2026-08-16T22:13:16Z",
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
             "stars": 426
@@ -961,7 +961,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T20:22:40Z",
+            "last_commit": "2026-08-16T19:01:06Z",
             "owner": "dpipstudio",
             "repo": "botwave",
             "stars": 139
@@ -1462,7 +1462,7 @@
             "last_commit": "2026-06-06T03:28:36Z",
             "owner": "moonlight-stream",
             "repo": "moonlight-embedded",
-            "stars": 1652
+            "stars": 1653
           }
         },
         {
@@ -1556,7 +1556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:12:15.767Z",
+    "last_updated": "2026-08-17T02:10:54.932Z",
     "original_repository": "thibmaek/awesome-raspberry-pi",
     "original_repository_sha": "8e140f45f5b1f33c57ea1f5d945cd8af0e32c88e",
     "enhanced_repository": "enhansome/enhansome-raspberry-pi",
