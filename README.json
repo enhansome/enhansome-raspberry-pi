@@ -14,7 +14,7 @@
             "last_commit": "2025-02-14T15:47:26Z",
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8210
+            "stars": 8209
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-27T04:11:36Z",
             "owner": "nextcloud",
             "repo": "nextcloudpi",
-            "stars": 2931
+            "stars": 2932
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-01T19:49:42Z",
             "owner": "psyb0t",
             "repo": "piraterf",
-            "stars": 279
+            "stars": 280
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2025-08-23T12:24:16Z",
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9172
+            "stars": 9174
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-05-10T09:43:54Z",
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4093
+            "stars": 4095
           }
         },
         {
@@ -199,7 +199,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-17T00:30:04Z",
+            "last_commit": "2026-08-18T00:29:40Z",
             "owner": "Botspot",
             "repo": "pi-apps",
             "stars": 2792
@@ -555,10 +555,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T15:30:59Z",
+            "last_commit": "2026-08-17T15:56:58Z",
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36161
+            "stars": 36175
           }
         },
         {
@@ -572,7 +572,7 @@
             "last_commit": "2026-08-12T16:51:53Z",
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12070
+            "stars": 12073
           }
         },
         {
@@ -583,7 +583,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-16T06:17:35Z",
+            "last_commit": "2026-08-17T02:52:44Z",
             "owner": "pikvm",
             "repo": "pikvm",
             "stars": 10256
@@ -639,7 +639,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T13:40:42Z",
+            "last_commit": "2026-08-17T10:25:50Z",
             "owner": "rsta2",
             "repo": "circle",
             "stars": 2292
@@ -656,7 +656,7 @@
             "last_commit": "2026-08-16T23:51:07Z",
             "owner": "secluso",
             "repo": "core",
-            "stars": 1656
+            "stars": 1657
           }
         },
         {
@@ -681,7 +681,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T17:35:36Z",
+            "last_commit": "2026-08-17T17:26:33Z",
             "owner": "cooklang",
             "repo": "cookcli",
             "stars": 1365
@@ -759,6 +759,20 @@
         },
         {
           "node_type": "item",
+          "title": "RustChain",
+          "description": "Proof-of-Antiquity blockchain that rewards vintage and edge hardware including Raspberry Pi for mining. DePIN infrastructure for IoT devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T04:02:45Z",
+            "owner": "Scottcjn",
+            "repo": "Rustchain",
+            "stars": 621
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Kubernetes on ARM",
           "description": "Get your ARM device up and running Kubernetes in less than ten minutes.",
           "children": [],
@@ -769,20 +783,6 @@
             "owner": "luxas",
             "repo": "kubernetes-on-arm",
             "stars": 601
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RustChain",
-          "description": "Proof-of-Antiquity blockchain that rewards vintage and edge hardware including Raspberry Pi for mining. DePIN infrastructure for IoT devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T04:02:45Z",
-            "owner": "Scottcjn",
-            "repo": "Rustchain",
-            "stars": 599
           }
         },
         {
@@ -821,7 +821,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-16T22:13:16Z",
+            "last_commit": "2026-08-17T22:16:14Z",
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
             "stars": 426
@@ -950,7 +950,7 @@
             "last_commit": "2026-08-02T20:40:46Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 150
+            "stars": 151
           }
         },
         {
@@ -1045,7 +1045,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-06-03T10:19:38Z",
+            "last_commit": "2026-08-17T20:37:53Z",
             "owner": "atao",
             "repo": "raspberrypi-setup",
             "stars": 53
@@ -1556,7 +1556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:10:54.932Z",
+    "last_updated": "2026-08-18T02:06:41.195Z",
     "original_repository": "thibmaek/awesome-raspberry-pi",
     "original_repository_sha": "8e140f45f5b1f33c57ea1f5d945cd8af0e32c88e",
     "enhanced_repository": "enhansome/enhansome-raspberry-pi",
