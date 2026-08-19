@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43636412,
             "language": "Makefile",
             "last_commit": "2025-02-14T15:47:26Z",
             "owner": "motioneye-project",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81749801,
             "language": "Shell",
             "last_commit": "2026-07-27T04:11:36Z",
             "owner": "nextcloud",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50190034,
             "language": "HTML",
             "last_commit": "2022-04-04T14:41:58Z",
             "owner": "jareware",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96817992,
             "language": "C",
             "last_commit": "2022-01-07T15:36:13Z",
             "owner": "DroneBridge",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63702447,
             "language": "C",
             "last_commit": "2024-01-31T14:53:54Z",
             "owner": "rodizio1",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284533956,
             "language": "Shell",
             "last_commit": "2026-05-14T09:52:10Z",
             "owner": "mainsail-crew",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1058480615,
             "language": "Go",
             "last_commit": "2026-08-01T19:49:42Z",
             "owner": "psyb0t",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 625923478,
             "language": null,
             "last_commit": "2023-04-20T18:06:54Z",
             "owner": "Fourdee",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 281753896,
             "language": "Python",
             "last_commit": "2020-07-25T11:24:52Z",
             "owner": "Defcon27",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1141606923,
             "language": "Rust",
             "last_commit": "2026-02-11T04:23:16Z",
             "owner": "bad-antics",
@@ -147,7 +157,7 @@
       "title": "OS Images"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -156,8 +166,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209556497,
             "language": "Python",
-            "last_commit": "2025-08-23T12:24:16Z",
+            "last_commit": "2026-08-19T09:02:11Z",
             "owner": "evilsocket",
             "repo": "pwnagotchi",
             "stars": 9175
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56025125,
             "language": "Shell",
             "last_commit": "2026-05-10T09:43:54Z",
             "owner": "Drewsif",
@@ -184,11 +196,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55947851,
             "language": "Shell",
             "last_commit": "2026-06-19T09:54:29Z",
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3227
+            "stars": 3228
           }
         },
         {
@@ -198,8 +211,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 297820951,
             "language": "Shell",
-            "last_commit": "2026-08-19T00:29:26Z",
+            "last_commit": "2026-08-19T12:25:03Z",
             "owner": "Botspot",
             "repo": "pi-apps",
             "stars": 2793
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20267077,
             "language": "Shell",
             "last_commit": "2026-07-27T22:38:05Z",
             "owner": "jmcerrejon",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260479550,
             "language": "Shell",
             "last_commit": "2026-08-05T21:22:35Z",
             "owner": "gitbls",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110958944,
             "language": "Python",
             "last_commit": "2023-06-17T16:51:18Z",
             "owner": "nschloe",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259331118,
             "language": "Python",
             "last_commit": "2026-06-26T19:45:37Z",
             "owner": "hjelev",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 121056139,
             "language": "Go",
             "last_commit": "2019-01-28T06:05:20Z",
             "owner": "cjimti",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157746627,
             "language": "Python",
             "last_commit": "2025-05-27T12:42:23Z",
             "owner": "epeios-q37",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108447389,
             "language": "Shell",
             "last_commit": "2024-01-11T17:27:07Z",
             "owner": "tolstoyevsky",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90442238,
             "language": "C++",
             "last_commit": "2024-12-11T06:09:09Z",
             "owner": "Protocentral",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275178693,
             "language": "CSS",
             "last_commit": "2026-02-20T22:40:38Z",
             "owner": "gridhead",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167050136,
             "language": "Shell",
             "last_commit": "2026-06-18T19:09:05Z",
             "owner": "Nature40",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131173537,
             "language": "Shell",
             "last_commit": "2020-11-29T16:33:04Z",
             "owner": "rosehgal",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80631089,
             "language": "Python",
             "last_commit": "2024-02-09T08:05:05Z",
             "owner": "Moduland",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191990413,
             "language": "Python",
             "last_commit": "2026-02-26T01:18:12Z",
             "owner": "gitbls",
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149802849,
             "language": "Shell",
             "last_commit": "2025-01-19T15:07:04Z",
             "owner": "gitbls",
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81872347,
             "language": "C",
             "last_commit": "2018-09-29T22:11:56Z",
             "owner": "farjump",
@@ -422,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 306903407,
             "language": "Python",
             "last_commit": "2026-04-14T12:30:08Z",
             "owner": "actionschnitzel",
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 822525525,
             "language": "PHP",
             "last_commit": "2025-05-28T15:08:17Z",
             "owner": "nekromoff",
@@ -450,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78559795,
             "language": "Shell",
             "last_commit": "2017-05-02T12:04:19Z",
             "owner": "balena-io-experimental",
@@ -464,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 597774038,
             "language": "Rust",
             "last_commit": "2023-08-09T00:21:52Z",
             "owner": "s-nagaev",
@@ -478,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 929344958,
             "language": "PHP",
             "last_commit": "2025-12-26T21:15:24Z",
             "owner": "billz",
@@ -492,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 270532373,
             "language": "Shell",
             "last_commit": "2022-10-01T13:27:36Z",
             "owner": "tschaffter",
@@ -506,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 359259420,
             "language": "Shell",
             "last_commit": "2025-09-26T09:41:43Z",
             "owner": "heeplr",
@@ -520,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1147694689,
             "language": "Rust",
             "last_commit": "2026-02-11T05:02:48Z",
             "owner": "bad-antics",
@@ -534,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1261225837,
             "language": "Python",
             "last_commit": "2026-06-19T08:02:24Z",
             "owner": "techtiki21",
@@ -545,7 +583,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -554,11 +592,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62712899,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:33:03Z",
+            "last_commit": "2026-08-19T12:03:18Z",
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36200
+            "stars": 36217
           }
         },
         {
@@ -568,11 +607,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9746477,
             "language": "C++",
             "last_commit": "2026-08-12T16:51:53Z",
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12073
+            "stars": 12075
           }
         },
         {
@@ -582,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208804714,
             "language": null,
             "last_commit": "2026-08-17T02:52:44Z",
             "owner": "pikvm",
@@ -596,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73915307,
             "language": "JavaScript",
             "last_commit": "2018-11-26T16:50:44Z",
             "owner": "samyk",
@@ -610,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82814382,
             "language": "Python",
             "last_commit": "2024-08-12T05:02:48Z",
             "owner": "RoganDawes",
@@ -624,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42341942,
             "language": "JavaScript",
             "last_commit": "2024-07-02T20:00:29Z",
             "owner": "evancohen",
@@ -638,8 +682,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25676773,
             "language": "C",
-            "last_commit": "2026-08-18T07:22:30Z",
+            "last_commit": "2026-08-19T09:42:21Z",
             "owner": "rsta2",
             "repo": "circle",
             "stars": 2293
@@ -652,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 894270616,
             "language": "Rust",
             "last_commit": "2026-08-16T23:51:07Z",
             "owner": "secluso",
@@ -666,11 +712,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18275203,
             "language": "C",
             "last_commit": "2026-02-01T10:52:49Z",
             "owner": "ChristopheJacquet",
             "repo": "PiFmRds",
-            "stars": 1584
+            "stars": 1585
           }
         },
         {
@@ -680,11 +727,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 330776661,
             "language": "Rust",
             "last_commit": "2026-08-17T17:26:33Z",
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1366
+            "stars": 1367
           }
         },
         {
@@ -694,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40164982,
             "language": "C",
             "last_commit": "2026-02-18T09:17:35Z",
             "owner": "cyoung",
@@ -708,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70590335,
             "language": "Python",
             "last_commit": "2025-10-17T20:29:09Z",
             "owner": "pageauc",
@@ -722,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91197196,
             "language": "C++",
             "last_commit": "2021-07-04T03:54:46Z",
             "owner": "otem",
@@ -736,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 330857922,
             "language": "Ruby",
             "last_commit": "2026-08-11T17:46:06Z",
             "owner": "havenweb",
@@ -750,6 +802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66981433,
             "language": "JavaScript",
             "last_commit": "2024-07-02T19:09:52Z",
             "owner": "evancohen",
@@ -764,11 +817,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 970157421,
             "language": "Python",
             "last_commit": "2026-08-19T01:32:22Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 624
+            "stars": 627
           }
         },
         {
@@ -778,6 +832,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43455641,
             "language": "Shell",
             "last_commit": "2017-06-07T06:36:57Z",
             "owner": "luxas",
@@ -792,6 +847,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35773708,
             "language": "Python",
             "last_commit": "2024-07-15T12:26:17Z",
             "owner": "n0bel",
@@ -806,6 +862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28255076,
             "language": "Python",
             "last_commit": "2025-05-07T10:47:44Z",
             "owner": "pageauc",
@@ -820,8 +877,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115350359,
             "language": "Lua",
-            "last_commit": "2026-08-18T22:14:20Z",
+            "last_commit": "2026-08-19T02:44:20Z",
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
             "stars": 426
@@ -834,6 +892,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66388584,
             "language": "Python",
             "last_commit": "2017-09-22T21:09:15Z",
             "owner": "initialstate",
@@ -848,6 +907,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272681327,
             "language": "PHP",
             "last_commit": "2024-06-26T12:52:43Z",
             "owner": "femto-code",
@@ -862,6 +922,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125781232,
             "language": "Python",
             "last_commit": "2026-05-11T13:33:21Z",
             "owner": "gavinlyonsrepo",
@@ -876,6 +937,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 460323705,
             "language": "C++",
             "last_commit": "2026-04-11T09:33:56Z",
             "owner": "AristoChen",
@@ -890,6 +952,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35609741,
             "language": "Python",
             "last_commit": "2022-11-23T11:47:26Z",
             "owner": "SecPi",
@@ -904,6 +967,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179233478,
             "language": "HTML",
             "last_commit": "2026-08-09T01:08:51Z",
             "owner": "lomorage",
@@ -918,6 +982,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275281112,
             "language": "Java",
             "last_commit": "2026-05-06T07:26:23Z",
             "owner": "alex9849",
@@ -932,6 +997,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26560680,
             "language": "CoffeeScript",
             "last_commit": "2015-12-21T22:39:37Z",
             "owner": "stephenlacy",
@@ -946,6 +1012,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1133724679,
             "language": "TypeScript",
             "last_commit": "2026-08-18T13:27:03Z",
             "owner": "KristianP26",
@@ -960,6 +1027,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1019777835,
             "language": "Python",
             "last_commit": "2026-08-16T19:01:06Z",
             "owner": "dpipstudio",
@@ -974,6 +1042,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113867700,
             "language": "MATLAB",
             "last_commit": "2021-10-20T09:29:04Z",
             "owner": "m-r-s",
@@ -988,6 +1057,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163304289,
             "language": "Python",
             "last_commit": "2024-12-31T16:36:25Z",
             "owner": "rothman857",
@@ -1002,6 +1072,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95983561,
             "language": "Python",
             "last_commit": "2026-03-29T14:36:58Z",
             "owner": "gavinlyonsrepo",
@@ -1016,6 +1087,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138470915,
             "language": "Shell",
             "last_commit": "2022-08-05T04:11:13Z",
             "owner": "sp4rkie",
@@ -1030,6 +1102,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47793306,
             "language": "JavaScript",
             "last_commit": "2017-06-21T16:36:53Z",
             "owner": "iGerli",
@@ -1044,8 +1117,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 389029140,
             "language": "Shell",
-            "last_commit": "2026-08-18T20:25:38Z",
+            "last_commit": "2026-08-19T12:43:46Z",
             "owner": "atao",
             "repo": "raspberrypi-setup",
             "stars": 53
@@ -1058,6 +1132,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188037296,
             "language": "Shell",
             "last_commit": "2019-12-09T08:37:10Z",
             "owner": "helmut-hoffer-von-ankershoffen",
@@ -1072,6 +1147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156254651,
             "language": "Java",
             "last_commit": "2018-11-24T15:31:22Z",
             "owner": "eliddell1",
@@ -1086,6 +1162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119135145,
             "language": "Python",
             "last_commit": "2021-05-26T18:17:35Z",
             "owner": "jonathanrjpereira",
@@ -1100,6 +1177,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 66695799,
             "language": "Shell",
             "last_commit": "2016-09-04T15:56:59Z",
             "owner": "rothgar",
@@ -1114,6 +1192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 364303088,
             "language": "C++",
             "last_commit": "2026-07-08T20:50:54Z",
             "owner": "gavinlyonsrepo",
@@ -1128,8 +1207,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 818765314,
             "language": "Python",
-            "last_commit": "2026-07-27T03:05:39Z",
+            "last_commit": "2026-08-19T08:23:06Z",
             "owner": "hookprobe",
             "repo": "hookprobe",
             "stars": 44
@@ -1142,6 +1222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68592419,
             "language": "Python",
             "last_commit": "2016-09-22T10:47:19Z",
             "owner": "winkidney",
@@ -1156,6 +1237,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89822291,
             "language": "Python",
             "last_commit": "2018-04-01T00:35:35Z",
             "owner": "euniceylee",
@@ -1170,6 +1252,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154746541,
             "language": "Shell",
             "last_commit": "2019-05-21T01:38:38Z",
             "owner": "LelandSindt",
@@ -1184,6 +1267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 846391722,
             "language": "Python",
             "last_commit": "2026-05-16T19:30:30Z",
             "owner": "GraveEaterMadison",
@@ -1198,6 +1282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 879974333,
             "language": "Python",
             "last_commit": "2025-01-02T13:18:32Z",
             "owner": "Barqawiz",
@@ -1212,6 +1297,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133182271,
             "language": "Python",
             "last_commit": "2018-05-13T10:00:26Z",
             "owner": "anshulahuja98",
@@ -1226,6 +1312,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 829122755,
             "language": "Python",
             "last_commit": "2026-07-11T17:34:40Z",
             "owner": "SimonWaldherr",
@@ -1240,6 +1327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1124427898,
             "language": "Shell",
             "last_commit": "2026-03-12T22:10:46Z",
             "owner": "tvup",
@@ -1254,6 +1342,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86057992,
             "language": "Go",
             "last_commit": "2017-10-29T08:12:09Z",
             "owner": "fote",
@@ -1268,6 +1357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1122811905,
             "language": null,
             "last_commit": "2025-12-23T21:59:08Z",
             "owner": "rootzoll",
@@ -1282,6 +1372,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193360783,
             "language": "Shell",
             "last_commit": "2023-11-13T02:23:06Z",
             "owner": "gaussmeter",
@@ -1296,6 +1387,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205727348,
             "language": "Java",
             "last_commit": "2026-01-22T09:20:47Z",
             "owner": "FDelporte",
@@ -1310,6 +1402,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161447516,
             "language": "Python",
             "last_commit": "2022-08-21T11:28:36Z",
             "owner": "khadkarajesh",
@@ -1324,6 +1417,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137830303,
             "language": "Go",
             "last_commit": "2018-06-20T03:36:10Z",
             "owner": "bww",
@@ -1338,6 +1432,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 740183659,
             "language": "Go",
             "last_commit": "2024-10-02T19:02:00Z",
             "owner": "SimonWaldherr",
@@ -1352,6 +1447,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 440921222,
             "language": "C++",
             "last_commit": "2021-12-30T18:35:51Z",
             "owner": "leinir",
@@ -1366,6 +1462,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1199386900,
             "language": "Shell",
             "last_commit": "2026-04-02T10:17:04Z",
             "owner": "cherifon",
@@ -1380,6 +1477,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 901739569,
             "language": "C#",
             "last_commit": "2026-05-10T21:21:52Z",
             "owner": "samartzidis",
@@ -1394,6 +1492,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229738227,
             "language": "Go",
             "last_commit": "2024-06-23T21:53:09Z",
             "owner": "SimonWaldherr",
@@ -1408,6 +1507,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 981337560,
             "language": "Python",
             "last_commit": "2026-05-23T13:08:42Z",
             "owner": "GeiserX",
@@ -1422,142 +1522,132 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 981326461,
             "language": "Python",
             "last_commit": "2026-05-23T13:08:39Z",
             "owner": "GeiserX",
             "repo": "PiSpot-Watch",
             "stars": 3
           }
-        },
-        {
-          "node_type": "item",
-          "title": "TelePi",
-          "description": "Telepi allows you to monitor and control your Raspberry Pi via Telegram featuring file downloads, system monitoring, network insights, speed tests, and the ability to open web tunnels.",
-          "children": []
         }
       ],
       "title": "Projects"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Moonlight",
+              "description": "Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15691240,
+                "language": "C",
+                "last_commit": "2026-06-06T03:28:36Z",
+                "owner": "moonlight-stream",
+                "repo": "moonlight-embedded",
+                "stars": 1654
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Raspbereum",
+              "description": "Run your own Ethereum node on a Raspberry Pi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129644816,
+                "language": null,
+                "last_commit": "2019-02-18T00:38:34Z",
+                "owner": "jim380",
+                "repo": "Raspbereum",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RasRobot 4WD TB6612FNG checklist",
+              "description": "Practical Raspberry Pi motor-driver checklist for debugging a 4WD robot with TB6612FNG drivers, common ground, standby pin and step-by-step motor tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1275405178,
+                "language": "HTML",
+                "last_commit": "2026-06-20T16:39:40Z",
+                "owner": "willoc2023",
+                "repo": "rasrobot-tb6612fng-4wd",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SwiftyGPIO",
+              "description": "Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49376393,
+                "language": "Swift",
+                "last_commit": "2024-05-02T07:50:51Z",
+                "owner": "uraimo",
+                "repo": "SwiftyGPIO",
+                "stars": 1370
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BuildSwiftOnARM",
+              "description": "All you need to build Swift on a RaspberryPi or other ARM boards, updated to Swift 4.1.3.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 76746207,
+                "language": "Shell",
+                "last_commit": "2021-12-08T11:14:03Z",
+                "owner": "uraimo",
+                "repo": "buildSwiftOnARM",
+                "stars": 488
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swish",
+              "description": "Build Swift Projects on a remote machine within Xcode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72871125,
+                "language": "Shell",
+                "last_commit": "2017-01-08T18:16:46Z",
+                "owner": "thomaspaulmann",
+                "repo": "Swish",
+                "stars": 274
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Swift programming"
+        }
+      ],
       "title": "Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Useful Apps"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Moonlight",
-          "description": "Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-06T03:28:36Z",
-            "owner": "moonlight-stream",
-            "repo": "moonlight-embedded",
-            "stars": 1654
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Raspbereum",
-          "description": "Run your own Ethereum node on a Raspberry Pi.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-02-18T00:38:34Z",
-            "owner": "jim380",
-            "repo": "Raspbereum",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RasRobot 4WD TB6612FNG checklist",
-          "description": "Practical Raspberry Pi motor-driver checklist for debugging a 4WD robot with TB6612FNG drivers, common ground, standby pin and step-by-step motor tests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-06-20T16:39:40Z",
-            "owner": "willoc2023",
-            "repo": "rasrobot-tb6612fng-4wd",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Tutorials"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SwiftyGPIO",
-          "description": "Swift library for hardware projects on Linux/ARM boards with support for GPIOs/SPI/I2C/PWM/UART/1Wire.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2024-05-02T07:50:51Z",
-            "owner": "uraimo",
-            "repo": "SwiftyGPIO",
-            "stars": 1370
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BuildSwiftOnARM",
-          "description": "All you need to build Swift on a RaspberryPi or other ARM boards, updated to Swift 4.1.3.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2021-12-08T11:14:03Z",
-            "owner": "uraimo",
-            "repo": "buildSwiftOnARM",
-            "stars": 488
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swish",
-          "description": "Build Swift Projects on a remote machine within Xcode.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2017-01-08T18:16:46Z",
-            "owner": "thomaspaulmann",
-            "repo": "Swish",
-            "stars": 274
-          }
-        }
-      ],
-      "title": "Swift programming"
-    },
-    {
-      "description": "Contribution guidelines can be found here",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:09:02.172Z",
+    "last_updated": "2026-08-19T12:49:42.254Z",
     "original_repository": "thibmaek/awesome-raspberry-pi",
+    "original_repository_id": 68380413,
     "original_repository_sha": "8e140f45f5b1f33c57ea1f5d945cd8af0e32c88e",
     "enhanced_repository": "enhansome/enhansome-raspberry-pi",
     "enhanced_repository_description": null,
