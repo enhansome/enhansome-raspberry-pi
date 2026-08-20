@@ -30,7 +30,7 @@
             "last_commit": "2026-07-27T04:11:36Z",
             "owner": "nextcloud",
             "repo": "nextcloudpi",
-            "stars": 2932
+            "stars": 2935
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-19T09:02:11Z",
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9175
+            "stars": 9176
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-05-10T09:43:54Z",
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4095
+            "stars": 4096
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-06-19T09:54:29Z",
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3228
+            "stars": 3231
           }
         },
         {
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 297820951,
             "language": "Shell",
-            "last_commit": "2026-08-19T12:25:03Z",
+            "last_commit": "2026-08-20T00:30:51Z",
             "owner": "Botspot",
             "repo": "pi-apps",
             "stars": 2793
@@ -276,7 +276,7 @@
             "last_commit": "2026-06-26T19:45:37Z",
             "owner": "hjelev",
             "repo": "rpi-mqtt-monitor",
-            "stars": 316
+            "stars": 317
           }
         },
         {
@@ -594,10 +594,10 @@
             "archived": false,
             "id": 62712899,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:03:18Z",
+            "last_commit": "2026-08-19T16:12:05Z",
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36217
+            "stars": 36228
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2026-08-12T16:51:53Z",
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12075
+            "stars": 12076
           }
         },
         {
@@ -732,7 +732,7 @@
             "last_commit": "2026-08-17T17:26:33Z",
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1367
+            "stars": 1368
           }
         },
         {
@@ -797,6 +797,21 @@
         },
         {
           "node_type": "item",
+          "title": "RustChain",
+          "description": "Proof-of-Antiquity blockchain that rewards vintage and edge hardware including Raspberry Pi for mining. DePIN infrastructure for IoT devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 970157421,
+            "language": "Python",
+            "last_commit": "2026-08-19T01:32:22Z",
+            "owner": "Scottcjn",
+            "repo": "Rustchain",
+            "stars": 646
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Sonus",
           "description": "Node.js voice control for your Pi (and everything else) with customizable offline hotword detection.",
           "children": [],
@@ -808,21 +823,6 @@
             "owner": "evancohen",
             "repo": "sonus",
             "stars": 638
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RustChain",
-          "description": "Proof-of-Antiquity blockchain that rewards vintage and edge hardware including Raspberry Pi for mining. DePIN infrastructure for IoT devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 970157421,
-            "language": "Python",
-            "last_commit": "2026-08-19T01:32:22Z",
-            "owner": "Scottcjn",
-            "repo": "Rustchain",
-            "stars": 627
           }
         },
         {
@@ -879,7 +879,7 @@
             "archived": false,
             "id": 115350359,
             "language": "Lua",
-            "last_commit": "2026-08-19T02:44:20Z",
+            "last_commit": "2026-08-19T22:16:21Z",
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
             "stars": 426
@@ -1014,10 +1014,10 @@
             "archived": false,
             "id": 1133724679,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T13:27:03Z",
+            "last_commit": "2026-08-19T18:05:41Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 152
+            "stars": 153
           }
         },
         {
@@ -1645,7 +1645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:49:42.254Z",
+    "last_updated": "2026-08-20T02:08:24.186Z",
     "original_repository": "thibmaek/awesome-raspberry-pi",
     "original_repository_id": 68380413,
     "original_repository_sha": "8e140f45f5b1f33c57ea1f5d945cd8af0e32c88e",
