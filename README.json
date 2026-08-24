@@ -15,7 +15,7 @@
             "last_commit": "2025-02-14T15:47:26Z",
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8207
+            "stars": 8208
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2022-01-07T15:36:13Z",
             "owner": "DroneBridge",
             "repo": "DroneBridge",
-            "stars": 946
+            "stars": 947
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-19T09:02:11Z",
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9182
+            "stars": 9185
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-05-10T09:43:54Z",
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4099
+            "stars": 4100
           }
         },
         {
@@ -213,10 +213,10 @@
             "archived": false,
             "id": 297820951,
             "language": "Shell",
-            "last_commit": "2026-08-23T00:31:42Z",
+            "last_commit": "2026-08-24T00:31:25Z",
             "owner": "Botspot",
             "repo": "pi-apps",
-            "stars": 2790
+            "stars": 2791
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2026-06-18T19:09:05Z",
             "owner": "Nature40",
             "repo": "pimod",
-            "stars": 149
+            "stars": 148
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-21T14:51:22Z",
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36297
+            "stars": 36327
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2026-08-12T16:51:53Z",
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12080
+            "stars": 12081
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2026-08-22T19:49:04Z",
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10262
+            "stars": 10265
           }
         },
         {
@@ -699,10 +699,10 @@
             "archived": false,
             "id": 894270616,
             "language": "Rust",
-            "last_commit": "2026-08-16T23:51:07Z",
+            "last_commit": "2026-08-24T01:20:02Z",
             "owner": "secluso",
             "repo": "core",
-            "stars": 1659
+            "stars": 1658
           }
         },
         {
@@ -717,7 +717,7 @@
             "last_commit": "2026-02-01T10:52:49Z",
             "owner": "ChristopheJacquet",
             "repo": "PiFmRds",
-            "stars": 1586
+            "stars": 1587
           }
         },
         {
@@ -729,10 +729,10 @@
             "archived": false,
             "id": 330776661,
             "language": "Rust",
-            "last_commit": "2026-08-17T17:26:33Z",
+            "last_commit": "2026-08-23T18:29:31Z",
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1370
+            "stars": 1371
           }
         },
         {
@@ -807,7 +807,7 @@
             "last_commit": "2026-08-23T00:06:17Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 717
+            "stars": 721
           }
         },
         {
@@ -879,7 +879,7 @@
             "archived": false,
             "id": 115350359,
             "language": "Lua",
-            "last_commit": "2026-08-22T22:30:17Z",
+            "last_commit": "2026-08-23T22:13:57Z",
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
             "stars": 427
@@ -1550,7 +1550,7 @@
                 "last_commit": "2026-06-06T03:28:36Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1655
+                "stars": 1656
               }
             },
             {
@@ -1645,7 +1645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:15:29.286Z",
+    "last_updated": "2026-08-24T02:13:35.166Z",
     "original_repository": "thibmaek/awesome-raspberry-pi",
     "original_repository_id": 68380413,
     "original_repository_sha": "8e140f45f5b1f33c57ea1f5d945cd8af0e32c88e",
