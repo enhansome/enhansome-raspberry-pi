@@ -15,7 +15,7 @@
             "last_commit": "2025-02-14T15:47:26Z",
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8209
+            "stars": 8210
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-27T04:11:36Z",
             "owner": "nextcloud",
             "repo": "nextcloudpi",
-            "stars": 2936
+            "stars": 2935
           }
         },
         {
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 297820951,
             "language": "Shell",
-            "last_commit": "2026-08-24T12:27:42Z",
+            "last_commit": "2026-08-25T00:28:26Z",
             "owner": "Botspot",
             "repo": "pi-apps",
             "stars": 2791
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-21T14:51:22Z",
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36335
+            "stars": 36341
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2026-08-12T16:51:53Z",
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12081
+            "stars": 12082
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2026-08-22T19:49:04Z",
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10266
+            "stars": 10269
           }
         },
         {
@@ -702,7 +702,7 @@
             "last_commit": "2026-08-24T01:20:02Z",
             "owner": "secluso",
             "repo": "core",
-            "stars": 1658
+            "stars": 1659
           }
         },
         {
@@ -792,7 +792,7 @@
             "last_commit": "2026-08-11T17:46:06Z",
             "owner": "havenweb",
             "repo": "haven",
-            "stars": 799
+            "stars": 800
           }
         },
         {
@@ -804,10 +804,10 @@
             "archived": false,
             "id": 970157421,
             "language": "Python",
-            "last_commit": "2026-08-24T13:08:11Z",
+            "last_commit": "2026-08-24T16:27:36Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 721
+            "stars": 722
           }
         },
         {
@@ -879,7 +879,7 @@
             "archived": false,
             "id": 115350359,
             "language": "Lua",
-            "last_commit": "2026-08-23T22:13:57Z",
+            "last_commit": "2026-08-24T22:17:51Z",
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
             "stars": 427
@@ -992,6 +992,21 @@
         },
         {
           "node_type": "item",
+          "title": "ble-scale-sync",
+          "description": "Reads BLE smart scales (23 brands) via built-in Bluetooth, calculates body composition, and exports to Garmin Connect, MQTT/Home Assistant, InfluxDB, and more. Website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1133724679,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T10:49:34Z",
+            "owner": "KristianP26",
+            "repo": "ble-scale-sync",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Movel",
           "description": "Raspberry Pi car computer.",
           "children": [],
@@ -1003,21 +1018,6 @@
             "owner": "stephenlacy",
             "repo": "movel",
             "stars": 156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ble-scale-sync",
-          "description": "Reads BLE smart scales (23 brands) via built-in Bluetooth, calculates body composition, and exports to Garmin Connect, MQTT/Home Assistant, InfluxDB, and more. Website.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1133724679,
-            "language": "TypeScript",
-            "last_commit": "2026-08-24T10:49:34Z",
-            "owner": "KristianP26",
-            "repo": "ble-scale-sync",
-            "stars": 155
           }
         },
         {
@@ -1572,7 +1572,7 @@
                 "last_commit": "2026-06-06T03:28:36Z",
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1656
+                "stars": 1657
               }
             },
             {
@@ -1667,7 +1667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:56:11.295Z",
+    "last_updated": "2026-08-25T02:09:38.591Z",
     "original_repository": "thibmaek/awesome-raspberry-pi",
     "original_repository_id": 68380413,
     "original_repository_sha": "8e140f45f5b1f33c57ea1f5d945cd8af0e32c88e",
