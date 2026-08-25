@@ -186,7 +186,7 @@
             "last_commit": "2026-05-10T09:43:54Z",
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4100
+            "stars": 4102
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-21T14:51:22Z",
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36341
+            "stars": 36343
           }
         },
         {
@@ -807,7 +807,7 @@
             "last_commit": "2026-08-24T16:27:36Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 722
+            "stars": 723
           }
         },
         {
@@ -1667,7 +1667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:09:38.591Z",
+    "last_updated": "2026-08-25T05:43:42.661Z",
     "original_repository": "thibmaek/awesome-raspberry-pi",
     "original_repository_id": 68380413,
     "original_repository_sha": "8e140f45f5b1f33c57ea1f5d945cd8af0e32c88e",
