@@ -171,7 +171,7 @@
             "last_commit": "2026-08-19T09:02:11Z",
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9189
+            "stars": 9190
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-27T09:55:14Z",
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36378
+            "stars": 36376
           }
         },
         {
@@ -807,7 +807,7 @@
             "last_commit": "2026-08-25T23:08:48Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 723
+            "stars": 724
           }
         },
         {
@@ -1029,7 +1029,7 @@
             "archived": false,
             "id": 1019777835,
             "language": "Python",
-            "last_commit": "2026-08-16T19:01:06Z",
+            "last_commit": "2026-08-27T11:27:56Z",
             "owner": "dpipstudio",
             "repo": "botwave",
             "stars": 140
@@ -1667,7 +1667,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:39:54.231Z",
+    "last_updated": "2026-08-27T12:00:26.765Z",
     "original_repository_info": {
       "archived": false,
       "id": 68380413,
