@@ -171,7 +171,7 @@
             "last_commit": "2026-08-19T09:02:11Z",
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9187
+            "stars": 9189
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-06-19T09:54:29Z",
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3236
+            "stars": 3238
           }
         },
         {
@@ -213,10 +213,10 @@
             "archived": false,
             "id": 297820951,
             "language": "Shell",
-            "last_commit": "2026-08-25T12:24:46Z",
+            "last_commit": "2026-08-27T01:55:10Z",
             "owner": "Botspot",
             "repo": "pi-apps",
-            "stars": 2792
+            "stars": 2794
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-05T21:22:35Z",
             "owner": "gitbls",
             "repo": "sdm",
-            "stars": 760
+            "stars": 761
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2026-02-26T01:18:12Z",
             "owner": "gitbls",
             "repo": "ndm",
-            "stars": 86
+            "stars": 87
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2025-01-19T15:07:04Z",
             "owner": "gitbls",
             "repo": "pistrong",
-            "stars": 75
+            "stars": 76
           }
         },
         {
@@ -594,10 +594,10 @@
             "archived": false,
             "id": 62712899,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T13:03:41Z",
+            "last_commit": "2026-08-27T09:55:14Z",
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36360
+            "stars": 36378
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2026-08-12T16:51:53Z",
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12084
+            "stars": 12083
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2026-08-22T19:49:04Z",
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10271
+            "stars": 10273
           }
         },
         {
@@ -642,7 +642,7 @@
             "last_commit": "2018-11-26T16:50:44Z",
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6474
+            "stars": 6475
           }
         },
         {
@@ -657,7 +657,7 @@
             "last_commit": "2024-08-12T05:02:48Z",
             "owner": "RoganDawes",
             "repo": "P4wnP1",
-            "stars": 4382
+            "stars": 4383
           }
         },
         {
@@ -684,7 +684,7 @@
             "archived": false,
             "id": 25676773,
             "language": "C",
-            "last_commit": "2026-08-21T06:34:02Z",
+            "last_commit": "2026-08-26T08:12:11Z",
             "owner": "rsta2",
             "repo": "circle",
             "stars": 2295
@@ -702,7 +702,7 @@
             "last_commit": "2026-08-24T01:20:02Z",
             "owner": "secluso",
             "repo": "core",
-            "stars": 1660
+            "stars": 1661
           }
         },
         {
@@ -732,7 +732,7 @@
             "last_commit": "2026-08-23T18:29:31Z",
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1372
+            "stars": 1373
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2026-02-18T09:17:35Z",
             "owner": "cyoung",
             "repo": "stratux",
-            "stars": 1132
+            "stars": 1133
           }
         },
         {
@@ -792,7 +792,7 @@
             "last_commit": "2026-08-11T17:46:06Z",
             "owner": "havenweb",
             "repo": "haven",
-            "stars": 800
+            "stars": 801
           }
         },
         {
@@ -879,7 +879,7 @@
             "archived": false,
             "id": 115350359,
             "language": "Lua",
-            "last_commit": "2026-08-25T22:18:05Z",
+            "last_commit": "2026-08-27T02:28:31Z",
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
             "stars": 427
@@ -999,10 +999,10 @@
             "archived": false,
             "id": 1133724679,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T16:03:47Z",
+            "last_commit": "2026-08-26T21:29:44Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 156
+            "stars": 158
           }
         },
         {
@@ -1550,7 +1550,7 @@
                 "last_commit": "2021-05-15T07:47:23Z",
                 "owner": "wtsxDev",
                 "repo": "Raspberry-Pi",
-                "stars": 959
+                "stars": 960
               }
             }
           ],
@@ -1667,9 +1667,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:15:47.783Z",
-    "original_repository": "thibmaek/awesome-raspberry-pi",
-    "original_repository_id": 68380413,
+    "last_updated": "2026-08-27T10:39:54.231Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 68380413,
+      "language": "Shell",
+      "last_commit": "2026-07-27T10:19:55Z",
+      "owner": "thibmaek",
+      "repo": "awesome-raspberry-pi",
+      "stars": 16791
+    },
     "original_repository_sha": "8e140f45f5b1f33c57ea1f5d945cd8af0e32c88e",
     "enhanced_repository": "enhansome/enhansome-raspberry-pi",
     "enhanced_repository_description": null,
