@@ -15,8 +15,9 @@
             "last_commit": "2025-02-14T15:47:26Z",
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8210
-          }
+            "stars": 8211
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "nextcloud",
             "repo": "nextcloudpi",
             "stars": 2935
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "jareware",
             "repo": "chilipie-kiosk",
             "stars": 1398
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "DroneBridge",
             "repo": "DroneBridge",
             "stars": 949
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "rodizio1",
             "repo": "EZ-WifiBroadcast",
             "stars": 897
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "mainsail-crew",
             "repo": "MainsailOS",
             "stars": 744
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "psyb0t",
             "repo": "piraterf",
             "stars": 279
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "Fourdee",
             "repo": "DietPi",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "Defcon27",
             "repo": "RasComm-RaspberryPi-MorseCode-Translator",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "bad-antics",
             "repo": "glowbarn-os",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         }
       ],
       "title": "OS Images"
@@ -171,8 +181,9 @@
             "last_commit": "2026-08-19T09:02:11Z",
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9190
-          }
+            "stars": 9191
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -186,8 +197,9 @@
             "last_commit": "2026-05-10T09:43:54Z",
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4102
-          }
+            "stars": 4101
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -201,8 +213,9 @@
             "last_commit": "2026-06-19T09:54:29Z",
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3238
-          }
+            "stars": 3239
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -213,11 +226,12 @@
             "archived": false,
             "id": 297820951,
             "language": "Shell",
-            "last_commit": "2026-08-27T01:55:10Z",
+            "last_commit": "2026-08-27T16:00:44Z",
             "owner": "Botspot",
             "repo": "pi-apps",
             "stars": 2794
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "jmcerrejon",
             "repo": "PiKISS",
             "stars": 1008
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "gitbls",
             "repo": "sdm",
             "stars": 761
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -261,8 +277,9 @@
             "last_commit": "2023-06-17T16:51:18Z",
             "owner": "nschloe",
             "repo": "stressberry",
-            "stars": 365
-          }
+            "stars": 364
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "hjelev",
             "repo": "rpi-mqtt-monitor",
             "stars": 315
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "cjimti",
             "repo": "iotwifi",
             "stars": 308
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "epeios-q37",
             "repo": "atlas-python",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "tolstoyevsky",
             "repo": "pieman",
             "stars": 229
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "Protocentral",
             "repo": "protocentral-healthypi-v3",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "gridhead",
             "repo": "sysmon",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "Nature40",
             "repo": "pimod",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "rosehgal",
             "repo": "tortipi",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "Moduland",
             "repo": "Orangetool",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "gitbls",
             "repo": "ndm",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "gitbls",
             "repo": "pistrong",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "farjump",
             "repo": "raspberry-pi",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "actionschnitzel",
             "repo": "PiGro-Aid-",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "nekromoff",
             "repo": "rpi-monitor-dashboard",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "balena-io-experimental",
             "repo": "balena-bridge",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "s-nagaev",
             "repo": "pi-temperature-exporter",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "billz",
             "repo": "raspap-webgui",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "tschaffter",
             "repo": "raspberry-pi-kernel-hardened",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "heeplr",
             "repo": "rpi-cookstrap",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "bad-antics",
             "repo": "n01d-forge",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "techtiki21",
             "repo": "PiPulse",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         }
       ],
       "title": "Tools"
@@ -594,11 +632,12 @@
             "archived": false,
             "id": 62712899,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T09:55:14Z",
+            "last_commit": "2026-08-27T15:27:41Z",
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36376
-          }
+            "stars": 36406
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -612,8 +651,9 @@
             "last_commit": "2026-08-12T16:51:53Z",
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12083
-          }
+            "stars": 12084
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -624,11 +664,12 @@
             "archived": false,
             "id": 208804714,
             "language": null,
-            "last_commit": "2026-08-22T19:49:04Z",
+            "last_commit": "2026-08-28T10:12:15Z",
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10273
-          }
+            "stars": 10277
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -643,7 +684,8 @@
             "owner": "samyk",
             "repo": "poisontap",
             "stars": 6475
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -658,7 +700,8 @@
             "owner": "RoganDawes",
             "repo": "P4wnP1",
             "stars": 4383
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -673,7 +716,8 @@
             "owner": "evancohen",
             "repo": "smart-mirror",
             "stars": 2820
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -687,8 +731,9 @@
             "last_commit": "2026-08-26T08:12:11Z",
             "owner": "rsta2",
             "repo": "circle",
-            "stars": 2295
-          }
+            "stars": 2296
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -703,7 +748,8 @@
             "owner": "secluso",
             "repo": "core",
             "stars": 1661
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -718,7 +764,8 @@
             "owner": "ChristopheJacquet",
             "repo": "PiFmRds",
             "stars": 1587
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -732,8 +779,9 @@
             "last_commit": "2026-08-23T18:29:31Z",
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1373
-          }
+            "stars": 1376
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -748,7 +796,8 @@
             "owner": "cyoung",
             "repo": "stratux",
             "stars": 1133
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -763,7 +812,8 @@
             "owner": "pageauc",
             "repo": "speed-camera",
             "stars": 1101
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -778,7 +828,8 @@
             "owner": "otem",
             "repo": "Raspberry-Pi-Looper-synth-drum-thing",
             "stars": 1028
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -792,8 +843,9 @@
             "last_commit": "2026-08-11T17:46:06Z",
             "owner": "havenweb",
             "repo": "haven",
-            "stars": 801
-          }
+            "stars": 800
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -807,8 +859,9 @@
             "last_commit": "2026-08-25T23:08:48Z",
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 724
-          }
+            "stars": 725
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -823,7 +876,8 @@
             "owner": "evancohen",
             "repo": "sonus",
             "stars": 638
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -838,7 +892,8 @@
             "owner": "luxas",
             "repo": "kubernetes-on-arm",
             "stars": 601
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -849,11 +904,12 @@
             "archived": false,
             "id": 35773708,
             "language": "Python",
-            "last_commit": "2026-08-24T02:34:19Z",
+            "last_commit": "2026-08-28T00:26:22Z",
             "owner": "n0bel",
             "repo": "PiClock",
             "stars": 589
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -868,7 +924,8 @@
             "owner": "pageauc",
             "repo": "pi-timolo",
             "stars": 579
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -879,11 +936,12 @@
             "archived": false,
             "id": 115350359,
             "language": "Lua",
-            "last_commit": "2026-08-27T02:28:31Z",
+            "last_commit": "2026-08-28T05:53:47Z",
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
             "stars": 427
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -898,7 +956,8 @@
             "owner": "initialstate",
             "repo": "pi-sensor-free-presence-detector",
             "stars": 373
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -913,7 +972,8 @@
             "owner": "femto-code",
             "repo": "Raspberry-Pi-Dashboard",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -928,7 +988,8 @@
             "owner": "gavinlyonsrepo",
             "repo": "RpiMotorLib",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -943,7 +1004,8 @@
             "owner": "AristoChen",
             "repo": "usb-proxy",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -958,7 +1020,8 @@
             "owner": "SecPi",
             "repo": "SecPi",
             "stars": 262
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -973,7 +1036,8 @@
             "owner": "lomorage",
             "repo": "homepage",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -988,7 +1052,8 @@
             "owner": "alex9849",
             "repo": "CocktailPi",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -999,11 +1064,12 @@
             "archived": false,
             "id": 1133724679,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T21:29:44Z",
+            "last_commit": "2026-08-28T09:42:33Z",
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 158
-          }
+            "stars": 159
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1018,7 +1084,8 @@
             "owner": "stephenlacy",
             "repo": "movel",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1029,11 +1096,12 @@
             "archived": false,
             "id": 1019777835,
             "language": "Python",
-            "last_commit": "2026-08-27T11:27:56Z",
+            "last_commit": "2026-08-27T13:22:41Z",
             "owner": "dpipstudio",
             "repo": "botwave",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1048,7 +1116,8 @@
             "owner": "m-r-s",
             "repo": "hearingaid-prototype",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1063,7 +1132,8 @@
             "owner": "rothman857",
             "repo": "chronometer",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1078,7 +1148,8 @@
             "owner": "gavinlyonsrepo",
             "repo": "raspberrypi_tempmon",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1093,7 +1164,8 @@
             "owner": "sp4rkie",
             "repo": "docsis-cable-load-monitor",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1108,7 +1180,8 @@
             "owner": "iGerli",
             "repo": "clockOS",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1123,7 +1196,8 @@
             "owner": "atao",
             "repo": "raspberrypi-setup",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1138,7 +1212,8 @@
             "owner": "helmut-hoffer-von-ankershoffen",
             "repo": "ceil",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1153,7 +1228,8 @@
             "owner": "eliddell1",
             "repo": "Project-Blue-Fist",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1168,7 +1244,8 @@
             "owner": "jonathanrjpereira",
             "repo": "Bitcoin-Bar",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1183,7 +1260,8 @@
             "owner": "rothgar",
             "repo": "rpi-wordpress",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1198,7 +1276,8 @@
             "owner": "hookprobe",
             "repo": "hookprobe",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1213,7 +1292,8 @@
             "owner": "gavinlyonsrepo",
             "repo": "Display_Lib_RPI",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1228,7 +1308,8 @@
             "owner": "winkidney",
             "repo": "PIFanTuner",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1243,7 +1324,8 @@
             "owner": "euniceylee",
             "repo": "waves",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1258,7 +1340,8 @@
             "owner": "LelandSindt",
             "repo": "teslacam",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1273,7 +1356,8 @@
             "owner": "GraveEaterMadison",
             "repo": "Raspberry_pi_telegram_bot",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1288,7 +1372,8 @@
             "owner": "Barqawiz",
             "repo": "iot_watering_system",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1303,7 +1388,8 @@
             "owner": "anshulahuja98",
             "repo": "pi_payments",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1318,7 +1404,8 @@
             "owner": "SimonWaldherr",
             "repo": "DIY-Arcade-Machine",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1333,7 +1420,8 @@
             "owner": "tvup",
             "repo": "idle-less",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1348,7 +1436,8 @@
             "owner": "fote",
             "repo": "nalivator9000",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1363,7 +1452,8 @@
             "owner": "rootzoll",
             "repo": "raspiblitz",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1378,7 +1468,8 @@
             "owner": "gaussmeter",
             "repo": "gaussmeter",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1393,7 +1484,8 @@
             "owner": "FDelporte",
             "repo": "DrumBoothController",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1408,7 +1500,8 @@
             "owner": "khadkarajesh",
             "repo": "Pi-Image-Capturer",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1423,7 +1516,8 @@
             "owner": "bww",
             "repo": "occu-pi",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1438,7 +1532,8 @@
             "owner": "SimonWaldherr",
             "repo": "RGB-LED-Matrix",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1453,7 +1548,8 @@
             "owner": "leinir",
             "repo": "relayboard-control",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1468,7 +1564,8 @@
             "owner": "cherifon",
             "repo": "Ultimate-DNS-Shield",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1483,7 +1580,8 @@
             "owner": "samartzidis",
             "repo": "NanoBot",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1498,7 +1596,8 @@
             "owner": "SimonWaldherr",
             "repo": "CocktailTDI",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1513,7 +1612,8 @@
             "owner": "GeiserX",
             "repo": "PiSpot-Show",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         },
         {
           "node_type": "item",
@@ -1528,7 +1628,8 @@
             "owner": "GeiserX",
             "repo": "PiSpot-Watch",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
         }
       ],
       "title": "Projects"
@@ -1551,7 +1652,8 @@
                 "owner": "wtsxDev",
                 "repo": "Raspberry-Pi",
                 "stars": 960
-              }
+              },
+              "first_seen": "2026-08-28T12:17:50.926Z"
             }
           ],
           "description": null,
@@ -1573,7 +1675,8 @@
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
                 "stars": 1657
-              }
+              },
+              "first_seen": "2026-08-28T12:17:50.926Z"
             },
             {
               "node_type": "item",
@@ -1588,7 +1691,8 @@
                 "owner": "jim380",
                 "repo": "Raspbereum",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T12:17:50.926Z"
             },
             {
               "node_type": "item",
@@ -1603,7 +1707,8 @@
                 "owner": "willoc2023",
                 "repo": "rasrobot-tb6612fng-4wd",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T12:17:50.926Z"
             }
           ],
           "description": null,
@@ -1625,7 +1730,8 @@
                 "owner": "uraimo",
                 "repo": "SwiftyGPIO",
                 "stars": 1368
-              }
+              },
+              "first_seen": "2026-08-28T12:17:50.926Z"
             },
             {
               "node_type": "item",
@@ -1640,7 +1746,8 @@
                 "owner": "uraimo",
                 "repo": "buildSwiftOnARM",
                 "stars": 488
-              }
+              },
+              "first_seen": "2026-08-28T12:17:50.926Z"
             },
             {
               "node_type": "item",
@@ -1655,7 +1762,8 @@
                 "owner": "thomaspaulmann",
                 "repo": "Swish",
                 "stars": 274
-              }
+              },
+              "first_seen": "2026-08-28T12:17:50.926Z"
             }
           ],
           "description": null,
@@ -1667,7 +1775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:00:26.765Z",
+    "last_updated": "2026-08-28T12:17:50.926Z",
     "original_repository_info": {
       "archived": false,
       "id": 68380413,
@@ -1675,7 +1783,7 @@
       "last_commit": "2026-07-27T10:19:55Z",
       "owner": "thibmaek",
       "repo": "awesome-raspberry-pi",
-      "stars": 16791
+      "stars": 16796
     },
     "original_repository_sha": "8e140f45f5b1f33c57ea1f5d945cd8af0e32c88e",
     "enhanced_repository": "enhansome/enhansome-raspberry-pi",
