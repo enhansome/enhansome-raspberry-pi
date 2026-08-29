@@ -1,13 +1,13 @@
 # Awesome Raspberry Pi with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21
-[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg)](https://github.com/thibmaek/awesome-raspberry-pi/blob/main/CONTRIBUTORS.md) ⭐ 16,802 | 🐛 18 | 🌐 Shell | 📅 2026-07-27
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,922 | 🐛 105 | 📅 2026-08-21
+[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg)](https://github.com/thibmaek/awesome-raspberry-pi/blob/main/CONTRIBUTORS.md) ⭐ 16,802 | 🐛 19 | 🌐 Shell | 📅 2026-07-27
 
 <a href="https://www.raspberrypi.org"><img src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png" alt="Raspberry Pi Logo" align="left" style="margin-right: 25px" height=150></a>
 
 > The Raspberry Pi is a series of credit card-sized single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and developing countries. Official Link: [Raspberry Pi Foundation Homepage](https://raspberrypi.org), [Raspberry Pi Computer Homepage](https://www.raspberrypi.com)
 
-This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21
+This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 500,922 | 🐛 105 | 📅 2026-08-21
 
 Contributions *very welcome* but first see [Contributing](#contributing)
 
@@ -44,7 +44,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ## OS Images
 
-* [motionEyeOS](https://github.com/ccrisan/motioneyeos/wiki) ⭐ 8,211 | 🐛 840 | 🌐 Makefile | 📅 2025-02-14 - Linux distribution that turns a single-board computer into a video surveillance system.
+* [motionEyeOS](https://github.com/ccrisan/motioneyeos/wiki) ⭐ 8,212 | 🐛 840 | 🌐 Makefile | 📅 2025-02-14 - Linux distribution that turns a single-board computer into a video surveillance system.
 * [NextCloudPi](https://github.com/nextcloud/nextcloudpi) ⭐ 2,935 | 🐛 228 | 🌐 Shell | 📅 2026-07-27 - Nextcloud ready image based on Raspbian. Features Nextcloud 11 running on Raspbian 8, with PHP 7 and HTTP2 enabled Apache server.
 * [chilipie-kiosk](https://github.com/futurice/chilipie-kiosk) ⭐ 1,398 | 🐛 69 | 🌐 HTML | 📅 2022-04-04 - Image which boots directly into full-screen Chrome, perfect for dashboards and build monitors. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
 * [DroneBridge](https://github.com/seeul8er/DroneBridge) ⭐ 950 | 🐛 16 | 🌐 C | 📅 2022-01-07 - A WifiBroadcast extension to make for a real alternative to DJI Lightbridge and other similar systems. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
@@ -153,9 +153,9 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ## Projects
 
-* [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) ⭐ 36,468 | 🐛 1,264 | 🌐 TypeScript | 📅 2026-08-28 - DNS relay station with ad/tracker/other blocking, IP address redirections, and DNS-over-HTTPS.
+* [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) ⭐ 36,489 | 🐛 1,264 | 🌐 TypeScript | 📅 2026-08-28 - DNS relay station with ad/tracker/other blocking, IP address redirections, and DNS-over-HTTPS.
 * [Sonic Pi](https://github.com/samaaron/sonic-pi) ⭐ 12,084 | 🐛 25 | 🌐 C++ | 📅 2026-08-12 - The Live Coding Music Synth for Everyone.
-* [Pi-KVM](https://github.com/pikvm/pikvm) ⭐ 10,279 | 🐛 86 | 📅 2026-08-28 - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
+* [Pi-KVM](https://github.com/pikvm/pikvm) ⭐ 10,279 | 🐛 85 | 📅 2026-08-28 - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
 * [PoisonTap](https://github.com/samyk/poisontap) ⭐ 6,476 | 🐛 90 | 🌐 JavaScript | 📅 2018-11-26 - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 * [P4wnP1](https://github.com/mame82/P4wnP1) ⭐ 4,383 | 🐛 117 | 🌐 Python | 📅 2024-08-12 - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
 * [Smart Mirror](https://github.com/evancohen/smart-mirror) ⭐ 2,820 | 🐛 19 | 🌐 JavaScript | 📅 2024-07-02 - Voice controlled smart mirror with IoT integration. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
@@ -369,7 +369,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ### Contributing
 
-Contribution guidelines can be found [here](https://github.com/thibmaek/awesome-raspberry-pi/blob/main/CONTRIBUTING.md) ⭐ 16,802 | 🐛 18 | 🌐 Shell | 📅 2026-07-27
+Contribution guidelines can be found [here](https://github.com/thibmaek/awesome-raspberry-pi/blob/main/CONTRIBUTING.md) ⭐ 16,802 | 🐛 19 | 🌐 Shell | 📅 2026-07-27
 
 ### License
 

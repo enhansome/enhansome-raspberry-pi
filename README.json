@@ -19,7 +19,7 @@
             "open_issues": 840,
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8211,
+            "stars": 8212,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1184,7 +1184,7 @@
             "open_issues": 1264,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36468,
+            "stars": 36489,
             "topics": [
               "adblock",
               "adguard",
@@ -1246,7 +1246,7 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2026-08-28T10:12:15Z",
-            "open_issues": 86,
+            "open_issues": 85,
             "owner": "pikvm",
             "repo": "pikvm",
             "stars": 10279,
@@ -3245,7 +3245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:13:48.520Z",
+    "last_updated": "2026-08-29T07:28:31.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
@@ -3254,7 +3254,7 @@
       "language": "Shell",
       "license": "NOASSERTION",
       "last_commit": "2026-07-27T10:19:55Z",
-      "open_issues": 18,
+      "open_issues": 19,
       "owner": "thibmaek",
       "repo": "awesome-raspberry-pi",
       "stars": 16802,
