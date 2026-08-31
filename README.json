@@ -321,7 +321,7 @@
             "open_issues": 294,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9194,
+            "stars": 9193,
             "topics": [
               "ai",
               "bettercap",
@@ -377,7 +377,7 @@
             "open_issues": 169,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3243,
+            "stars": 3244,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -394,11 +394,11 @@
             "id": 297820951,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T00:56:27Z",
+            "last_commit": "2026-08-31T00:56:29Z",
             "open_issues": 150,
             "owner": "Botspot",
             "repo": "pi-apps",
-            "stars": 2794,
+            "stars": 2796,
             "topics": [
               "app-store",
               "arm64",
@@ -462,7 +462,7 @@
             "open_issues": 11,
             "owner": "gitbls",
             "repo": "sdm",
-            "stars": 761,
+            "stars": 762,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -589,7 +589,7 @@
             "open_issues": 2,
             "owner": "epeios-q37",
             "repo": "atlas-python",
-            "stars": 280,
+            "stars": 279,
             "topics": [
               "android",
               "api",
@@ -1181,10 +1181,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-08-28T14:01:01Z",
-            "open_issues": 1265,
+            "open_issues": 1267,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36548,
+            "stars": 36578,
             "topics": [
               "adblock",
               "adguard",
@@ -1249,7 +1249,7 @@
             "open_issues": 85,
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10280,
+            "stars": 10283,
             "topics": [
               "atx",
               "hardware",
@@ -1286,7 +1286,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6476,
+            "stars": 6477,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1352,7 +1352,7 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-08-26T08:12:11Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "rsta2",
             "repo": "circle",
             "stars": 2298,
@@ -1441,8 +1441,8 @@
             "id": 330776661,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-28T20:37:32Z",
-            "open_issues": 27,
+            "last_commit": "2026-08-30T20:43:55Z",
+            "open_issues": 28,
             "owner": "cooklang",
             "repo": "cookcli",
             "stars": 1379,
@@ -1582,11 +1582,11 @@
             "id": 970157421,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T23:06:47Z",
-            "open_issues": 194,
+            "last_commit": "2026-08-30T13:44:29Z",
+            "open_issues": 197,
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 739,
+            "stars": 744,
             "topics": [
               "agent-authentication",
               "agent-economy",
@@ -1756,8 +1756,8 @@
             "id": 115350359,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T23:46:35Z",
-            "open_issues": 80,
+            "last_commit": "2026-08-31T00:48:44Z",
+            "open_issues": 73,
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
             "stars": 427,
@@ -1965,7 +1965,7 @@
             "open_issues": 16,
             "owner": "alex9849",
             "repo": "CocktailPi",
-            "stars": 194,
+            "stars": 193,
             "topics": [
               "automation",
               "cocktail",
@@ -1994,7 +1994,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-08-28T09:42:33Z",
-            "open_issues": 16,
+            "open_issues": 19,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
             "stars": 163,
@@ -2062,7 +2062,7 @@
             "id": 1019777835,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T22:07:12Z",
+            "last_commit": "2026-08-30T22:40:42Z",
             "open_issues": 0,
             "owner": "dpipstudio",
             "repo": "botwave",
@@ -2633,7 +2633,7 @@
             "id": 829122755,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-11T17:34:40Z",
+            "last_commit": "2026-08-30T20:01:10Z",
             "open_issues": 0,
             "owner": "SimonWaldherr",
             "repo": "DIY-Arcade-Machine",
@@ -2670,7 +2670,7 @@
             "open_issues": 0,
             "owner": "tvup",
             "repo": "idle-less",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "docker",
               "energy-saving",
@@ -3084,7 +3084,7 @@
                 "open_issues": 121,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1657,
+                "stars": 1658,
                 "topics": [
                   "gamestream",
                   "moonlight"
@@ -3245,7 +3245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:57:13.779Z",
+    "last_updated": "2026-08-31T06:18:04.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
@@ -3254,10 +3254,10 @@
       "language": "Shell",
       "license": "NOASSERTION",
       "last_commit": "2026-07-27T10:19:55Z",
-      "open_issues": 20,
+      "open_issues": 21,
       "owner": "thibmaek",
       "repo": "awesome-raspberry-pi",
-      "stars": 16804,
+      "stars": 16808,
       "topics": [
         "awesome",
         "awesome-list",
