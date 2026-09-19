@@ -19,7 +19,7 @@
             "open_issues": 840,
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8213,
+            "stars": 8214,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -40,7 +40,7 @@
             "open_issues": 229,
             "owner": "nextcloud",
             "repo": "nextcloudpi",
-            "stars": 2938,
+            "stars": 2939,
             "topics": [
               "arm",
               "nextcloud",
@@ -321,7 +321,7 @@
             "open_issues": 293,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9204,
+            "stars": 9205,
             "topics": [
               "ai",
               "bettercap",
@@ -394,7 +394,7 @@
             "id": 297820951,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T12:36:24Z",
+            "last_commit": "2026-09-19T00:49:43Z",
             "open_issues": 156,
             "owner": "Botspot",
             "repo": "pi-apps",
@@ -1180,11 +1180,11 @@
             "id": 62712899,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T15:06:42Z",
-            "open_issues": 1254,
+            "last_commit": "2026-09-18T10:50:20Z",
+            "open_issues": 1255,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36964,
+            "stars": 36973,
             "topics": [
               "adblock",
               "adguard",
@@ -1216,7 +1216,7 @@
             "open_issues": 28,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12141,
+            "stars": 12142,
             "topics": [
               "art",
               "audio",
@@ -1246,10 +1246,10 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2026-09-10T14:34:20Z",
-            "open_issues": 89,
+            "open_issues": 88,
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10343,
+            "stars": 10345,
             "topics": [
               "atx",
               "hardware",
@@ -1351,11 +1351,11 @@
             "id": 25676773,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T09:10:25Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-18T10:22:06Z",
+            "open_issues": 13,
             "owner": "rsta2",
             "repo": "circle",
-            "stars": 2303,
+            "stars": 2304,
             "topics": [
               "bare-metal",
               "c-plus-plus",
@@ -1382,7 +1382,7 @@
             "open_issues": 36,
             "owner": "secluso",
             "repo": "core",
-            "stars": 1669,
+            "stars": 1670,
             "topics": [
               "alternative",
               "blink",
@@ -1441,11 +1441,11 @@
             "id": 330776661,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-17T21:00:45Z",
-            "open_issues": 33,
+            "last_commit": "2026-09-18T15:32:31Z",
+            "open_issues": 31,
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1387,
+            "stars": 1388,
             "topics": [
               "cooklang"
             ]
@@ -1495,7 +1495,7 @@
             "open_issues": 20,
             "owner": "pageauc",
             "repo": "speed-camera",
-            "stars": 1105,
+            "stars": 1106,
             "topics": [
               "matplotlib-pyplot",
               "motion-tracking",
@@ -1554,11 +1554,11 @@
             "id": 970157421,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T03:58:03Z",
-            "open_issues": 157,
+            "last_commit": "2026-09-19T00:12:16Z",
+            "open_issues": 152,
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 808,
+            "stars": 807,
             "topics": [
               "agent-authentication",
               "agent-economy",
@@ -1756,11 +1756,11 @@
             "id": 115350359,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T23:49:58Z",
+            "last_commit": "2026-09-18T23:47:05Z",
             "open_issues": 157,
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
-            "stars": 432,
+            "stars": 433,
             "topics": [
               "dcs",
               "dcs-bios",
@@ -1846,7 +1846,7 @@
             "open_issues": 0,
             "owner": "gavinlyonsrepo",
             "repo": "RpiMotorLib",
-            "stars": 337,
+            "stars": 336,
             "topics": [
               "28byj-48",
               "a3967",
@@ -1940,7 +1940,7 @@
             "id": 179233478,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-09-18T04:21:08Z",
+            "last_commit": "2026-09-18T06:08:32Z",
             "open_issues": 6,
             "owner": "lomorage",
             "repo": "homepage",
@@ -2409,7 +2409,7 @@
             "open_issues": 0,
             "owner": "hookprobe",
             "repo": "hookprobe",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "ai-security",
               "cybersecurity",
@@ -3165,7 +3165,7 @@
                 "open_issues": 36,
                 "owner": "uraimo",
                 "repo": "SwiftyGPIO",
-                "stars": 1367,
+                "stars": 1366,
                 "topics": [
                   "1-wire",
                   "gpio",
@@ -3202,7 +3202,7 @@
                 "open_issues": 8,
                 "owner": "uraimo",
                 "repo": "buildSwiftOnARM",
-                "stars": 488,
+                "stars": 487,
                 "topics": [
                   "arm",
                   "debian",
@@ -3245,7 +3245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T05:19:04.687Z",
+    "last_updated": "2026-09-19T05:11:42.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
@@ -3257,7 +3257,7 @@
       "open_issues": 28,
       "owner": "thibmaek",
       "repo": "awesome-raspberry-pi",
-      "stars": 16885,
+      "stars": 16888,
       "topics": [
         "awesome",
         "awesome-list",
