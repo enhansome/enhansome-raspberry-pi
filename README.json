@@ -19,7 +19,7 @@
             "open_issues": 840,
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8214,
+            "stars": 8215,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -201,7 +201,7 @@
             "open_issues": 0,
             "owner": "psyb0t",
             "repo": "piraterf",
-            "stars": 280,
+            "stars": 282,
             "topics": [
               "access-point",
               "carrier",
@@ -264,7 +264,7 @@
             "open_issues": 0,
             "owner": "Defcon27",
             "repo": "RasComm-RaspberryPi-MorseCode-Translator",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "audio",
               "imc",
@@ -294,7 +294,7 @@
             "open_issues": 0,
             "owner": "bad-antics",
             "repo": "glowbarn-os",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -321,7 +321,7 @@
             "open_issues": 293,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9205,
+            "stars": 9207,
             "topics": [
               "ai",
               "bettercap",
@@ -374,10 +374,10 @@
             "language": "Shell",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-16T14:48:18Z",
-            "open_issues": 166,
+            "open_issues": 167,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3259,
+            "stars": 3260,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -394,11 +394,11 @@
             "id": 297820951,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T00:49:43Z",
-            "open_issues": 156,
+            "last_commit": "2026-09-20T03:47:43Z",
+            "open_issues": 151,
             "owner": "Botspot",
             "repo": "pi-apps",
-            "stars": 2813,
+            "stars": 2814,
             "topics": [
               "app-store",
               "arm64",
@@ -434,7 +434,7 @@
             "open_issues": 22,
             "owner": "jmcerrejon",
             "repo": "PiKISS",
-            "stars": 1007,
+            "stars": 1008,
             "topics": [
               "games",
               "odroid",
@@ -1181,10 +1181,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-18T10:50:20Z",
-            "open_issues": 1255,
+            "open_issues": 1256,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 36973,
+            "stars": 36990,
             "topics": [
               "adblock",
               "adguard",
@@ -1212,11 +1212,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T07:35:09Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-19T23:01:52Z",
+            "open_issues": 30,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12142,
+            "stars": 12143,
             "topics": [
               "art",
               "audio",
@@ -1286,7 +1286,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6475,
+            "stars": 6476,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1351,7 +1351,7 @@
             "id": 25676773,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T10:22:06Z",
+            "last_commit": "2026-09-19T07:55:08Z",
             "open_issues": 13,
             "owner": "rsta2",
             "repo": "circle",
@@ -1424,7 +1424,7 @@
             "open_issues": 69,
             "owner": "ChristopheJacquet",
             "repo": "PiFmRds",
-            "stars": 1590,
+            "stars": 1591,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1442,10 +1442,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-18T15:32:31Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1388,
+            "stars": 1389,
             "topics": [
               "cooklang"
             ]
@@ -1554,11 +1554,11 @@
             "id": 970157421,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T00:12:16Z",
-            "open_issues": 152,
+            "last_commit": "2026-09-19T22:53:58Z",
+            "open_issues": 150,
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 807,
+            "stars": 810,
             "topics": [
               "agent-authentication",
               "agent-economy",
@@ -1756,7 +1756,7 @@
             "id": 115350359,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T23:47:05Z",
+            "last_commit": "2026-09-19T23:49:27Z",
             "open_issues": 157,
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
@@ -1888,7 +1888,7 @@
             "open_issues": 13,
             "owner": "AristoChen",
             "repo": "usb-proxy",
-            "stars": 287,
+            "stars": 286,
             "topics": [
               "libusb",
               "man-in-the-middle",
@@ -1994,7 +1994,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-14T12:54:31Z",
-            "open_issues": 14,
+            "open_issues": 16,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
             "stars": 174,
@@ -2062,7 +2062,7 @@
             "id": 1019777835,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T12:22:42Z",
+            "last_commit": "2026-09-19T15:23:59Z",
             "open_issues": 0,
             "owner": "dpipstudio",
             "repo": "botwave",
@@ -3245,7 +3245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T05:11:42.345Z",
+    "last_updated": "2026-09-20T05:29:12.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
@@ -3257,7 +3257,7 @@
       "open_issues": 28,
       "owner": "thibmaek",
       "repo": "awesome-raspberry-pi",
-      "stars": 16888,
+      "stars": 16898,
       "topics": [
         "awesome",
         "awesome-list",
