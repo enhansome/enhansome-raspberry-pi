@@ -19,7 +19,7 @@
             "open_issues": 840,
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8214,
+            "stars": 8213,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -201,7 +201,7 @@
             "open_issues": 0,
             "owner": "psyb0t",
             "repo": "piraterf",
-            "stars": 283,
+            "stars": 284,
             "topics": [
               "access-point",
               "carrier",
@@ -321,7 +321,7 @@
             "open_issues": 293,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9210,
+            "stars": 9211,
             "topics": [
               "ai",
               "bettercap",
@@ -377,7 +377,7 @@
             "open_issues": 166,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3262,
+            "stars": 3263,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -394,11 +394,11 @@
             "id": 297820951,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-27T00:57:19Z",
+            "last_commit": "2026-09-27T12:31:58Z",
             "open_issues": 153,
             "owner": "Botspot",
             "repo": "pi-apps",
-            "stars": 2817,
+            "stars": 2818,
             "topics": [
               "app-store",
               "arm64",
@@ -1184,7 +1184,7 @@
             "open_issues": 1260,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37079,
+            "stars": 37092,
             "topics": [
               "adblock",
               "adguard",
@@ -1212,7 +1212,7 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T18:56:16Z",
+            "last_commit": "2026-09-27T22:23:27Z",
             "open_issues": 34,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
@@ -1249,7 +1249,7 @@
             "open_issues": 89,
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10366,
+            "stars": 10367,
             "topics": [
               "atx",
               "hardware",
@@ -1286,7 +1286,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6477,
+            "stars": 6476,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1352,10 +1352,10 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-09-25T09:11:42Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "rsta2",
             "repo": "circle",
-            "stars": 2311,
+            "stars": 2310,
             "topics": [
               "bare-metal",
               "c-plus-plus",
@@ -1378,11 +1378,11 @@
             "id": 894270616,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-26T13:33:24Z",
+            "last_commit": "2026-09-27T14:29:33Z",
             "open_issues": 42,
             "owner": "secluso",
             "repo": "core",
-            "stars": 1676,
+            "stars": 1678,
             "topics": [
               "alternative",
               "blink",
@@ -1441,11 +1441,11 @@
             "id": 330776661,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-26T17:44:27Z",
-            "open_issues": 41,
+            "last_commit": "2026-09-28T04:48:56Z",
+            "open_issues": 38,
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1393,
+            "stars": 1395,
             "topics": [
               "cooklang"
             ]
@@ -1554,8 +1554,8 @@
             "id": 970157421,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-27T00:55:25Z",
-            "open_issues": 167,
+            "last_commit": "2026-09-28T03:54:59Z",
+            "open_issues": 168,
             "owner": "Scottcjn",
             "repo": "Rustchain",
             "stars": 835,
@@ -1756,8 +1756,8 @@
             "id": 115350359,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-27T00:05:16Z",
-            "open_issues": 172,
+            "last_commit": "2026-09-28T00:10:44Z",
+            "open_issues": 173,
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
             "stars": 433,
@@ -1941,7 +1941,7 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-09-26T19:17:31Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "lomorage",
             "repo": "homepage",
             "stars": 239,
@@ -1994,7 +1994,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-14T12:54:31Z",
-            "open_issues": 21,
+            "open_issues": 24,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
             "stars": 177,
@@ -2806,27 +2806,6 @@
         },
         {
           "node_type": "item",
-          "title": "Occu-Pi",
-          "description": "Controller software for the Occu-pi, a totally awesome bathroom door sensor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Occu-pi door controller",
-            "homepage": "https://medium.com/@bww/occu-pi-the-bathroom-of-the-future-ed69b84e21d5",
-            "id": 137830303,
-            "language": "Go",
-            "license": "BSD-3-Clause",
-            "last_commit": "2018-06-20T03:36:10Z",
-            "open_issues": 0,
-            "owner": "bww",
-            "repo": "occu-pi",
-            "stars": 10,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T12:17:50.926Z"
-        },
-        {
-          "node_type": "item",
           "title": "RGB-LED-Matrix",
           "description": "A 128x128 Pixel RGB LED Matrix to display images, animations, conways game of life and other stuff.",
           "children": [],
@@ -2841,6 +2820,27 @@
             "open_issues": 0,
             "owner": "SimonWaldherr",
             "repo": "RGB-LED-Matrix",
+            "stars": 11,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Occu-Pi",
+          "description": "Controller software for the Occu-pi, a totally awesome bathroom door sensor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Occu-pi door controller",
+            "homepage": "https://medium.com/@bww/occu-pi-the-bathroom-of-the-future-ed69b84e21d5",
+            "id": 137830303,
+            "language": "Go",
+            "license": "BSD-3-Clause",
+            "last_commit": "2018-06-20T03:36:10Z",
+            "open_issues": 0,
+            "owner": "bww",
+            "repo": "occu-pi",
             "stars": 10,
             "topics": []
           },
@@ -3245,7 +3245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T05:53:19.520Z",
+    "last_updated": "2026-09-28T05:58:54.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
