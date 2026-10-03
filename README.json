@@ -1184,7 +1184,7 @@
             "open_issues": 1246,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37186,
+            "stars": 37188,
             "topics": [
               "adblock",
               "adguard",
@@ -3249,7 +3249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:03:58.539Z",
+    "last_updated": "2026-10-03T05:50:21.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",

@@ -1,13 +1,13 @@
 # Awesome Raspberry Pi with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,800 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,811 | 🐛 106 | 📅 2026-09-02
 [![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg)](https://github.com/thibmaek/awesome-raspberry-pi/blob/main/CONTRIBUTORS.md)
 
 <a href="https://www.raspberrypi.org"><img src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png" alt="Raspberry Pi Logo" align="left" style="margin-right: 25px" height=150></a>
 
 > The Raspberry Pi is a series of credit card-sized single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and developing countries. Official Link: [Raspberry Pi Foundation Homepage](https://raspberrypi.org), [Raspberry Pi Computer Homepage](https://www.raspberrypi.com)
 
-This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 513,800 | 🐛 106 | 📅 2026-09-02
+This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) ⭐ 513,811 | 🐛 106 | 📅 2026-09-02
 
 Contributions *very welcome* but first see [Contributing](#contributing)
 
@@ -155,7 +155,7 @@ The complete collection of (consumer) Raspberry Pi models consist of:
 
 ## Projects
 
-* [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) ⭐ 37,186 | 🐛 1,246 | 🌐 TypeScript | 📅 2026-10-02 - DNS relay station with ad/tracker/other blocking, IP address redirections, and DNS-over-HTTPS.
+* [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) ⭐ 37,188 | 🐛 1,246 | 🌐 TypeScript | 📅 2026-10-02 - DNS relay station with ad/tracker/other blocking, IP address redirections, and DNS-over-HTTPS.
 * [Sonic Pi](https://github.com/samaaron/sonic-pi) ⭐ 12,171 | 🐛 34 | 🌐 C++ | 📅 2026-10-02 - The Live Coding Music Synth for Everyone.
 * [Pi-KVM](https://github.com/pikvm/pikvm) ⭐ 10,369 | 🐛 89 | 📅 2026-09-21 - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
 * [PoisonTap](https://github.com/samyk/poisontap) ⭐ 6,479 | 🐛 90 | 🌐 JavaScript | 📅 2018-11-26 - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
