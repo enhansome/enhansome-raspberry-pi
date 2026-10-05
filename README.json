@@ -93,7 +93,7 @@
             "open_issues": 16,
             "owner": "DroneBridge",
             "repo": "DroneBridge",
-            "stars": 952,
+            "stars": 953,
             "topics": [
               "aerial-imagery",
               "ardupilot",
@@ -321,7 +321,7 @@
             "open_issues": 293,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9216,
+            "stars": 9217,
             "topics": [
               "ai",
               "bettercap",
@@ -377,7 +377,7 @@
             "open_issues": 163,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3262,
+            "stars": 3265,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -394,8 +394,8 @@
             "id": 297820951,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-04T04:34:36Z",
-            "open_issues": 158,
+            "last_commit": "2026-10-05T00:58:21Z",
+            "open_issues": 161,
             "owner": "Botspot",
             "repo": "pi-apps",
             "stars": 2826,
@@ -462,7 +462,7 @@
             "open_issues": 11,
             "owner": "gitbls",
             "repo": "sdm",
-            "stars": 765,
+            "stars": 764,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1184,7 +1184,7 @@
             "open_issues": 1246,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37195,
+            "stars": 37226,
             "topics": [
               "adblock",
               "adguard",
@@ -1216,7 +1216,7 @@
             "open_issues": 34,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12172,
+            "stars": 12175,
             "topics": [
               "art",
               "audio",
@@ -1249,7 +1249,7 @@
             "open_issues": 90,
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10369,
+            "stars": 10370,
             "topics": [
               "atx",
               "hardware",
@@ -1307,7 +1307,7 @@
             "open_issues": 117,
             "owner": "RoganDawes",
             "repo": "P4wnP1",
-            "stars": 4384,
+            "stars": 4385,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1352,10 +1352,10 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-09-30T10:28:06Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "rsta2",
             "repo": "circle",
-            "stars": 2321,
+            "stars": 2322,
             "topics": [
               "bare-metal",
               "c-plus-plus",
@@ -1441,8 +1441,8 @@
             "id": 330776661,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-03T18:12:23Z",
-            "open_issues": 45,
+            "last_commit": "2026-10-04T18:03:45Z",
+            "open_issues": 43,
             "owner": "cooklang",
             "repo": "cookcli",
             "stars": 1398,
@@ -1558,11 +1558,11 @@
             "id": 970157421,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T15:22:51Z",
+            "last_commit": "2026-10-04T16:18:27Z",
             "open_issues": 182,
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 837,
+            "stars": 841,
             "topics": [
               "agent-authentication",
               "agent-economy",
@@ -1600,11 +1600,11 @@
             "id": 330857922,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-03T02:07:06Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-04T19:12:27Z",
+            "open_issues": 18,
             "owner": "havenweb",
             "repo": "haven",
-            "stars": 806,
+            "stars": 807,
             "topics": [
               "decentralized",
               "decentralized-web",
@@ -1760,8 +1760,8 @@
             "id": 115350359,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-04T00:16:59Z",
-            "open_issues": 175,
+            "last_commit": "2026-10-05T00:21:23Z",
+            "open_issues": 173,
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
             "stars": 433,
@@ -1997,8 +1997,8 @@
             "id": 1133724679,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T20:14:35Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-05T06:03:33Z",
+            "open_issues": 20,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
             "stars": 177,
@@ -2560,7 +2560,7 @@
             "open_issues": 0,
             "owner": "GraveEaterMadison",
             "repo": "Raspberry_pi_telegram_bot",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "bot",
               "home-automation",
@@ -3249,7 +3249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T06:27:17.688Z",
+    "last_updated": "2026-10-05T06:19:39.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
@@ -3261,7 +3261,7 @@
       "open_issues": 33,
       "owner": "thibmaek",
       "repo": "awesome-raspberry-pi",
-      "stars": 16947,
+      "stars": 16948,
       "topics": [
         "awesome",
         "awesome-list",
