@@ -373,7 +373,7 @@
             "id": 55947851,
             "language": "Shell",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-29T11:43:24Z",
+            "last_commit": "2026-10-06T08:54:44Z",
             "open_issues": 163,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
@@ -1180,11 +1180,11 @@
             "id": 62712899,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T03:32:06Z",
-            "open_issues": 1246,
+            "last_commit": "2026-10-06T08:35:44Z",
+            "open_issues": 1245,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37248,
+            "stars": 37250,
             "topics": [
               "adblock",
               "adguard",
@@ -1216,7 +1216,7 @@
             "open_issues": 34,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12178,
+            "stars": 12179,
             "topics": [
               "art",
               "audio",
@@ -1249,7 +1249,7 @@
             "open_issues": 90,
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10372,
+            "stars": 10373,
             "topics": [
               "atx",
               "hardware",
@@ -1562,7 +1562,7 @@
             "open_issues": 173,
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 842,
+            "stars": 850,
             "topics": [
               "agent-authentication",
               "agent-economy",
@@ -1997,7 +1997,7 @@
             "id": 1133724679,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T15:52:54Z",
+            "last_commit": "2026-10-06T09:59:14Z",
             "open_issues": 15,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
@@ -3249,7 +3249,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T06:55:22.282Z",
+    "last_updated": "2026-10-06T10:27:09.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
