@@ -321,7 +321,7 @@
             "open_issues": 293,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9221,
+            "stars": 9220,
             "topics": [
               "ai",
               "bettercap",
@@ -350,7 +350,7 @@
             "open_issues": 21,
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4117,
+            "stars": 4118,
             "topics": [
               "pi-image",
               "raspberry-pi",
@@ -377,7 +377,7 @@
             "open_issues": 163,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3266,
+            "stars": 3265,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -394,11 +394,11 @@
             "id": 297820951,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-10T01:00:04Z",
+            "last_commit": "2026-10-10T12:37:22Z",
             "open_issues": 158,
             "owner": "Botspot",
             "repo": "pi-apps",
-            "stars": 2830,
+            "stars": 2831,
             "topics": [
               "app-store",
               "arm64",
@@ -434,7 +434,7 @@
             "open_issues": 22,
             "owner": "jmcerrejon",
             "repo": "PiKISS",
-            "stars": 1010,
+            "stars": 1011,
             "topics": [
               "games",
               "odroid",
@@ -458,7 +458,7 @@
             "id": 260479550,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-09T19:34:46Z",
+            "last_commit": "2026-10-10T17:58:32Z",
             "open_issues": 11,
             "owner": "gitbls",
             "repo": "sdm",
@@ -976,6 +976,27 @@
         },
         {
           "node_type": "item",
+          "title": "RaspAP-webgui",
+          "description": "A simple, responsive web interface to control wifi, hostapd and related services on the Raspberry Pi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Simple wireless AP setup & management for Debian-based devices",
+            "homepage": "https://raspap.com/",
+            "id": 929344958,
+            "language": "PHP",
+            "license": "GPL-3.0",
+            "last_commit": "2025-12-26T21:15:24Z",
+            "open_issues": 0,
+            "owner": "billz",
+            "repo": "raspap-webgui",
+            "stars": 33,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
+        },
+        {
+          "node_type": "item",
           "title": "Pi Temperature Exporter",
           "description": "a CPU and GPU temperature exporter for Prometheus consumption.",
           "children": [],
@@ -1003,27 +1024,6 @@
               "systemd-service",
               "temperature"
             ]
-          },
-          "first_seen": "2026-08-28T12:17:50.926Z"
-        },
-        {
-          "node_type": "item",
-          "title": "RaspAP-webgui",
-          "description": "A simple, responsive web interface to control wifi, hostapd and related services on the Raspberry Pi.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Simple wireless AP setup & management for Debian-based devices",
-            "homepage": "https://raspap.com/",
-            "id": 929344958,
-            "language": "PHP",
-            "license": "GPL-3.0",
-            "last_commit": "2025-12-26T21:15:24Z",
-            "open_issues": 0,
-            "owner": "billz",
-            "repo": "raspap-webgui",
-            "stars": 32,
-            "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
         },
@@ -1181,10 +1181,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-08T09:17:20Z",
-            "open_issues": 1247,
+            "open_issues": 1249,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37315,
+            "stars": 37346,
             "topics": [
               "adblock",
               "adguard",
@@ -1212,11 +1212,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T19:38:29Z",
+            "last_commit": "2026-10-10T18:51:25Z",
             "open_issues": 34,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12191,
+            "stars": 12196,
             "topics": [
               "art",
               "audio",
@@ -1249,7 +1249,7 @@
             "open_issues": 90,
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10375,
+            "stars": 10376,
             "topics": [
               "atx",
               "hardware",
@@ -1328,7 +1328,7 @@
             "open_issues": 10,
             "owner": "evancohen",
             "repo": "smart-mirror",
-            "stars": 2820,
+            "stars": 2819,
             "topics": [
               "diy",
               "home-automation",
@@ -1382,7 +1382,7 @@
             "open_issues": 42,
             "owner": "secluso",
             "repo": "core",
-            "stars": 1682,
+            "stars": 1683,
             "topics": [
               "alternative",
               "blink",
@@ -1424,7 +1424,7 @@
             "open_issues": 69,
             "owner": "ChristopheJacquet",
             "repo": "PiFmRds",
-            "stars": 1593,
+            "stars": 1594,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1441,8 +1441,8 @@
             "id": 330776661,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-09T22:29:53Z",
-            "open_issues": 42,
+            "last_commit": "2026-10-10T20:33:22Z",
+            "open_issues": 41,
             "owner": "cooklang",
             "repo": "cookcli",
             "stars": 1404,
@@ -1719,7 +1719,7 @@
             "id": 115350359,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-10T01:25:26Z",
+            "last_commit": "2026-10-11T00:36:18Z",
             "open_issues": 171,
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
@@ -1956,8 +1956,8 @@
             "id": 1133724679,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T17:08:30Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-10T19:31:53Z",
+            "open_issues": 19,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
             "stars": 181,
@@ -3047,7 +3047,7 @@
                 "open_issues": 122,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1664,
+                "stars": 1663,
                 "topics": [
                   "gamestream",
                   "moonlight"
@@ -3208,7 +3208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T06:28:03.506Z",
+    "last_updated": "2026-10-11T06:33:09.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
@@ -3220,7 +3220,7 @@
       "open_issues": 33,
       "owner": "thibmaek",
       "repo": "awesome-raspberry-pi",
-      "stars": 16963,
+      "stars": 16965,
       "topics": [
         "awesome",
         "awesome-list",
