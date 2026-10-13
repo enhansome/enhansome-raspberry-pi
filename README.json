@@ -40,7 +40,7 @@
             "open_issues": 231,
             "owner": "nextcloud",
             "repo": "nextcloudpi",
-            "stars": 2943,
+            "stars": 2942,
             "topics": [
               "arm",
               "nextcloud",
@@ -166,7 +166,7 @@
             "open_issues": 5,
             "owner": "mainsail-crew",
             "repo": "MainsailOS",
-            "stars": 747,
+            "stars": 748,
             "topics": [
               "3d-printing",
               "crowsnest",
@@ -201,7 +201,7 @@
             "open_issues": 0,
             "owner": "psyb0t",
             "repo": "piraterf",
-            "stars": 285,
+            "stars": 286,
             "topics": [
               "access-point",
               "carrier",
@@ -321,7 +321,7 @@
             "open_issues": 293,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9221,
+            "stars": 9223,
             "topics": [
               "ai",
               "bettercap",
@@ -350,7 +350,7 @@
             "open_issues": 21,
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4118,
+            "stars": 4120,
             "topics": [
               "pi-image",
               "raspberry-pi",
@@ -394,11 +394,11 @@
             "id": 297820951,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T01:24:29Z",
+            "last_commit": "2026-10-13T01:01:57Z",
             "open_issues": 157,
             "owner": "Botspot",
             "repo": "pi-apps",
-            "stars": 2833,
+            "stars": 2832,
             "topics": [
               "app-store",
               "arm64",
@@ -589,7 +589,7 @@
             "open_issues": 2,
             "owner": "epeios-q37",
             "repo": "atlas-python",
-            "stars": 280,
+            "stars": 281,
             "topics": [
               "android",
               "api",
@@ -774,7 +774,7 @@
             "open_issues": 5,
             "owner": "Moduland",
             "repo": "Orangetool",
-            "stars": 109,
+            "stars": 110,
             "topics": [
               "control",
               "globalip",
@@ -1181,10 +1181,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-08T09:17:20Z",
-            "open_issues": 1250,
+            "open_issues": 1254,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37368,
+            "stars": 37385,
             "topics": [
               "adblock",
               "adguard",
@@ -1212,11 +1212,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-11T21:13:51Z",
+            "last_commit": "2026-10-12T22:44:42Z",
             "open_issues": 34,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12195,
+            "stars": 12196,
             "topics": [
               "art",
               "audio",
@@ -1246,10 +1246,10 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2026-10-11T22:00:00Z",
-            "open_issues": 88,
+            "open_issues": 89,
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10379,
+            "stars": 10380,
             "topics": [
               "atx",
               "hardware",
@@ -1307,7 +1307,7 @@
             "open_issues": 117,
             "owner": "RoganDawes",
             "repo": "P4wnP1",
-            "stars": 4386,
+            "stars": 4387,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1324,8 +1324,8 @@
             "id": 42341942,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-01T15:14:55Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-13T05:09:48Z",
+            "open_issues": 11,
             "owner": "evancohen",
             "repo": "smart-mirror",
             "stars": 2819,
@@ -1352,7 +1352,7 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-10-08T12:01:09Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "rsta2",
             "repo": "circle",
             "stars": 2326,
@@ -1424,7 +1424,7 @@
             "open_issues": 69,
             "owner": "ChristopheJacquet",
             "repo": "PiFmRds",
-            "stars": 1594,
+            "stars": 1593,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1442,10 +1442,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-11T22:15:00Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1405,
+            "stars": 1406,
             "topics": [
               "cooklang",
               "meal-planning",
@@ -1473,7 +1473,7 @@
             "open_issues": 121,
             "owner": "cyoung",
             "repo": "stratux",
-            "stars": 1135,
+            "stars": 1136,
             "topics": [
               "aviation",
               "rtl-sdr",
@@ -1542,7 +1542,7 @@
             "open_issues": 6,
             "owner": "otem",
             "repo": "Raspberry-Pi-Looper-synth-drum-thing",
-            "stars": 1027,
+            "stars": 1028,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1563,7 +1563,7 @@
             "open_issues": 18,
             "owner": "havenweb",
             "repo": "haven",
-            "stars": 808,
+            "stars": 809,
             "topics": [
               "decentralized",
               "decentralized-web",
@@ -1650,7 +1650,7 @@
             "open_issues": 2,
             "owner": "n0bel",
             "repo": "PiClock",
-            "stars": 588,
+            "stars": 587,
             "topics": [
               "clock",
               "piclock",
@@ -1719,11 +1719,11 @@
             "id": 115350359,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T00:53:01Z",
+            "last_commit": "2026-10-13T02:47:35Z",
             "open_issues": 171,
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
-            "stars": 434,
+            "stars": 435,
             "topics": [
               "dcs",
               "dcs-bios",
@@ -1956,11 +1956,11 @@
             "id": 1133724679,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-11T16:23:56Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-12T21:01:23Z",
+            "open_issues": 17,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 182,
+            "stars": 183,
             "topics": [
               "ble",
               "body-composition",
@@ -2029,7 +2029,7 @@
             "open_issues": 0,
             "owner": "dpipstudio",
             "repo": "botwave",
-            "stars": 142,
+            "stars": 143,
             "topics": [
               "automation",
               "botwave",
@@ -2372,7 +2372,7 @@
             "open_issues": 0,
             "owner": "gavinlyonsrepo",
             "repo": "Display_Lib_RPI",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "erm19264",
               "gc9a01",
@@ -2410,11 +2410,11 @@
             "id": 818765314,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T21:09:40Z",
+            "last_commit": "2026-10-12T11:33:11Z",
             "open_issues": 0,
             "owner": "hookprobe",
             "repo": "hookprobe",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "ai-security",
               "cybersecurity",
@@ -2633,7 +2633,7 @@
             "open_issues": 0,
             "owner": "tvup",
             "repo": "idle-less",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "docker",
               "energy-saving",
@@ -2874,7 +2874,7 @@
             "id": 901739569,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-11T21:33:27Z",
+            "last_commit": "2026-10-12T08:10:56Z",
             "open_issues": 0,
             "owner": "samartzidis",
             "repo": "NanoBot",
@@ -3208,7 +3208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T06:38:43.159Z",
+    "last_updated": "2026-10-13T07:09:15.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
@@ -3220,7 +3220,7 @@
       "open_issues": 33,
       "owner": "thibmaek",
       "repo": "awesome-raspberry-pi",
-      "stars": 16971,
+      "stars": 16977,
       "topics": [
         "awesome",
         "awesome-list",
