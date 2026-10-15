@@ -68,7 +68,7 @@
             "open_issues": 69,
             "owner": "jareware",
             "repo": "chilipie-kiosk",
-            "stars": 1399,
+            "stars": 1400,
             "topics": [
               "dashboard",
               "kiosk-mode",
@@ -93,7 +93,7 @@
             "open_issues": 16,
             "owner": "DroneBridge",
             "repo": "DroneBridge",
-            "stars": 953,
+            "stars": 952,
             "topics": [
               "aerial-imagery",
               "ardupilot",
@@ -294,7 +294,7 @@
             "open_issues": 0,
             "owner": "bad-antics",
             "repo": "glowbarn-os",
-            "stars": 3,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -321,7 +321,7 @@
             "open_issues": 293,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9225,
+            "stars": 9227,
             "topics": [
               "ai",
               "bettercap",
@@ -374,10 +374,10 @@
             "language": "Shell",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-06T10:34:18Z",
-            "open_issues": 163,
+            "open_issues": 164,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3267,
+            "stars": 3268,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -394,11 +394,11 @@
             "id": 297820951,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-14T00:52:32Z",
+            "last_commit": "2026-10-15T00:52:42Z",
             "open_issues": 158,
             "owner": "Botspot",
             "repo": "pi-apps",
-            "stars": 2831,
+            "stars": 2832,
             "topics": [
               "app-store",
               "arm64",
@@ -434,7 +434,7 @@
             "open_issues": 22,
             "owner": "jmcerrejon",
             "repo": "PiKISS",
-            "stars": 1011,
+            "stars": 1010,
             "topics": [
               "games",
               "odroid",
@@ -1180,11 +1180,11 @@
             "id": 62712899,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T12:26:15Z",
-            "open_issues": 1256,
+            "last_commit": "2026-10-14T14:19:57Z",
+            "open_issues": 1253,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37405,
+            "stars": 37437,
             "topics": [
               "adblock",
               "adguard",
@@ -1212,11 +1212,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T10:51:34Z",
-            "open_issues": 34,
+            "last_commit": "2026-10-14T20:11:13Z",
+            "open_issues": 35,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12198,
+            "stars": 12202,
             "topics": [
               "art",
               "audio",
@@ -1246,10 +1246,10 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2026-10-13T21:53:04Z",
-            "open_issues": 88,
+            "open_issues": 87,
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10379,
+            "stars": 10383,
             "topics": [
               "atx",
               "hardware",
@@ -1286,7 +1286,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6481,
+            "stars": 6480,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1351,11 +1351,11 @@
             "id": 25676773,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T12:01:09Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-14T10:40:25Z",
+            "open_issues": 14,
             "owner": "rsta2",
             "repo": "circle",
-            "stars": 2328,
+            "stars": 2329,
             "topics": [
               "bare-metal",
               "c-plus-plus",
@@ -1382,7 +1382,7 @@
             "open_issues": 42,
             "owner": "secluso",
             "repo": "core",
-            "stars": 1686,
+            "stars": 1685,
             "topics": [
               "alternative",
               "blink",
@@ -1424,7 +1424,7 @@
             "open_issues": 69,
             "owner": "ChristopheJacquet",
             "repo": "PiFmRds",
-            "stars": 1593,
+            "stars": 1594,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1441,8 +1441,8 @@
             "id": 330776661,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-11T22:15:00Z",
-            "open_issues": 93,
+            "last_commit": "2026-10-14T20:59:00Z",
+            "open_issues": 90,
             "owner": "cooklang",
             "repo": "cookcli",
             "stars": 1406,
@@ -1500,7 +1500,7 @@
             "open_issues": 20,
             "owner": "pageauc",
             "repo": "speed-camera",
-            "stars": 1110,
+            "stars": 1112,
             "topics": [
               "matplotlib-pyplot",
               "motion-tracking",
@@ -1563,7 +1563,7 @@
             "open_issues": 18,
             "owner": "havenweb",
             "repo": "haven",
-            "stars": 810,
+            "stars": 811,
             "topics": [
               "decentralized",
               "decentralized-web",
@@ -1719,11 +1719,11 @@
             "id": 115350359,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-14T00:46:47Z",
-            "open_issues": 171,
+            "last_commit": "2026-10-15T00:12:32Z",
+            "open_issues": 172,
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
-            "stars": 435,
+            "stars": 436,
             "topics": [
               "dcs",
               "dcs-bios",
@@ -1903,7 +1903,7 @@
             "id": 179233478,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-13T08:52:36Z",
+            "last_commit": "2026-10-14T12:32:05Z",
             "open_issues": 8,
             "owner": "lomorage",
             "repo": "homepage",
@@ -3208,7 +3208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T05:31:14.976Z",
+    "last_updated": "2026-10-15T05:20:21.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
@@ -3217,10 +3217,10 @@
       "language": "Shell",
       "license": "NOASSERTION",
       "last_commit": "2026-10-02T08:10:55Z",
-      "open_issues": 33,
+      "open_issues": 34,
       "owner": "thibmaek",
       "repo": "awesome-raspberry-pi",
-      "stars": 16978,
+      "stars": 16983,
       "topics": [
         "awesome",
         "awesome-list",
