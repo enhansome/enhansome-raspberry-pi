@@ -16,10 +16,10 @@
             "language": "Makefile",
             "license": "NOASSERTION",
             "last_commit": "2025-02-14T15:47:26Z",
-            "open_issues": 840,
+            "open_issues": 841,
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8213,
+            "stars": 8214,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -40,7 +40,7 @@
             "open_issues": 231,
             "owner": "nextcloud",
             "repo": "nextcloudpi",
-            "stars": 2942,
+            "stars": 2945,
             "topics": [
               "arm",
               "nextcloud",
@@ -166,7 +166,7 @@
             "open_issues": 5,
             "owner": "mainsail-crew",
             "repo": "MainsailOS",
-            "stars": 748,
+            "stars": 749,
             "topics": [
               "3d-printing",
               "crowsnest",
@@ -321,7 +321,7 @@
             "open_issues": 293,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9227,
+            "stars": 9228,
             "topics": [
               "ai",
               "bettercap",
@@ -350,7 +350,7 @@
             "open_issues": 21,
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4120,
+            "stars": 4121,
             "topics": [
               "pi-image",
               "raspberry-pi",
@@ -377,7 +377,7 @@
             "open_issues": 164,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3268,
+            "stars": 3269,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -394,11 +394,11 @@
             "id": 297820951,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-15T00:52:42Z",
+            "last_commit": "2026-10-16T00:52:01Z",
             "open_issues": 158,
             "owner": "Botspot",
             "repo": "pi-apps",
-            "stars": 2832,
+            "stars": 2833,
             "topics": [
               "app-store",
               "arm64",
@@ -1180,11 +1180,11 @@
             "id": 62712899,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-14T14:19:57Z",
-            "open_issues": 1253,
+            "last_commit": "2026-10-15T15:30:32Z",
+            "open_issues": 1254,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37437,
+            "stars": 37463,
             "topics": [
               "adblock",
               "adguard",
@@ -1212,11 +1212,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T20:11:13Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-15T11:37:01Z",
+            "open_issues": 37,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12202,
+            "stars": 12203,
             "topics": [
               "art",
               "audio",
@@ -1424,7 +1424,7 @@
             "open_issues": 69,
             "owner": "ChristopheJacquet",
             "repo": "PiFmRds",
-            "stars": 1594,
+            "stars": 1595,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1441,11 +1441,11 @@
             "id": 330776661,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-14T20:59:00Z",
-            "open_issues": 90,
+            "last_commit": "2026-10-15T16:29:11Z",
+            "open_issues": 80,
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1406,
+            "stars": 1409,
             "topics": [
               "cooklang",
               "meal-planning",
@@ -1719,8 +1719,8 @@
             "id": 115350359,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-15T00:12:32Z",
-            "open_issues": 172,
+            "last_commit": "2026-10-15T23:59:46Z",
+            "open_issues": 174,
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
             "stars": 436,
@@ -1903,7 +1903,7 @@
             "id": 179233478,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-14T12:32:05Z",
+            "last_commit": "2026-10-15T16:58:01Z",
             "open_issues": 8,
             "owner": "lomorage",
             "repo": "homepage",
@@ -3208,7 +3208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T05:20:21.063Z",
+    "last_updated": "2026-10-16T05:10:19.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
@@ -3220,7 +3220,7 @@
       "open_issues": 34,
       "owner": "thibmaek",
       "repo": "awesome-raspberry-pi",
-      "stars": 16983,
+      "stars": 16986,
       "topics": [
         "awesome",
         "awesome-list",
