@@ -40,7 +40,7 @@
             "open_issues": 231,
             "owner": "nextcloud",
             "repo": "nextcloudpi",
-            "stars": 2946,
+            "stars": 2947,
             "topics": [
               "arm",
               "nextcloud",
@@ -377,7 +377,7 @@
             "open_issues": 164,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3267,
+            "stars": 3268,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -394,8 +394,8 @@
             "id": 297820951,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-18T00:58:51Z",
-            "open_issues": 159,
+            "last_commit": "2026-10-19T00:56:48Z",
+            "open_issues": 158,
             "owner": "Botspot",
             "repo": "pi-apps",
             "stars": 2833,
@@ -462,7 +462,7 @@
             "open_issues": 11,
             "owner": "gitbls",
             "repo": "sdm",
-            "stars": 763,
+            "stars": 762,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -483,7 +483,7 @@
             "open_issues": 40,
             "owner": "nschloe",
             "repo": "stressberry",
-            "stars": 364,
+            "stars": 365,
             "topics": [
               "pypi",
               "python",
@@ -511,7 +511,7 @@
             "open_issues": 10,
             "owner": "hjelev",
             "repo": "rpi-mqtt-monitor",
-            "stars": 325,
+            "stars": 326,
             "topics": [
               "deamon",
               "has",
@@ -631,7 +631,7 @@
             "open_issues": 38,
             "owner": "tolstoyevsky",
             "repo": "pieman",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "alpine",
               "alpine-linux",
@@ -1181,10 +1181,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-16T06:39:38Z",
-            "open_issues": 1255,
+            "open_issues": 1258,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37506,
+            "stars": 37528,
             "topics": [
               "adblock",
               "adguard",
@@ -1212,11 +1212,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-17T22:28:17Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-18T20:45:30Z",
+            "open_issues": 46,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12208,
+            "stars": 12210,
             "topics": [
               "art",
               "audio",
@@ -1249,7 +1249,7 @@
             "open_issues": 85,
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10394,
+            "stars": 10397,
             "topics": [
               "atx",
               "hardware",
@@ -1441,8 +1441,8 @@
             "id": 330776661,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-17T17:55:58Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-18T09:10:18Z",
+            "open_issues": 37,
             "owner": "cooklang",
             "repo": "cookcli",
             "stars": 1414,
@@ -1719,8 +1719,8 @@
             "id": 115350359,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-17T23:40:46Z",
-            "open_issues": 174,
+            "last_commit": "2026-10-18T23:49:44Z",
+            "open_issues": 172,
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
             "stars": 436,
@@ -1886,7 +1886,7 @@
             "open_issues": 32,
             "owner": "SecPi",
             "repo": "SecPi",
-            "stars": 262,
+            "stars": 261,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1957,7 +1957,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-13T10:07:43Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
             "stars": 188,
@@ -2214,7 +2214,7 @@
             "open_issues": 0,
             "owner": "atao",
             "repo": "raspberrypi-setup",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "ansible",
               "automation",
@@ -2686,7 +2686,7 @@
             "open_issues": 1,
             "owner": "rootzoll",
             "repo": "raspiblitz",
-            "stars": 21,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -2728,7 +2728,7 @@
             "open_issues": 0,
             "owner": "FDelporte",
             "repo": "DrumBoothController",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -2874,7 +2874,7 @@
             "id": 901739569,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-17T16:23:21Z",
+            "last_commit": "2026-10-18T18:28:37Z",
             "open_issues": 0,
             "owner": "samartzidis",
             "repo": "NanoBot",
@@ -3208,7 +3208,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T05:12:30.563Z",
+    "last_updated": "2026-10-19T05:24:25.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
@@ -3217,10 +3217,10 @@
       "language": "Shell",
       "license": "NOASSERTION",
       "last_commit": "2026-10-02T08:10:55Z",
-      "open_issues": 36,
+      "open_issues": 37,
       "owner": "thibmaek",
       "repo": "awesome-raspberry-pi",
-      "stars": 16993,
+      "stars": 16996,
       "topics": [
         "awesome",
         "awesome-list",
