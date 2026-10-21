@@ -19,7 +19,7 @@
             "open_issues": 841,
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8214,
+            "stars": 8215,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -40,7 +40,7 @@
             "open_issues": 231,
             "owner": "nextcloud",
             "repo": "nextcloudpi",
-            "stars": 2948,
+            "stars": 2947,
             "topics": [
               "arm",
               "nextcloud",
@@ -321,7 +321,7 @@
             "open_issues": 293,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9236,
+            "stars": 9235,
             "topics": [
               "ai",
               "bettercap",
@@ -377,7 +377,7 @@
             "open_issues": 164,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3268,
+            "stars": 3269,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -394,7 +394,7 @@
             "id": 297820951,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T00:56:52Z",
+            "last_commit": "2026-10-21T00:53:42Z",
             "open_issues": 158,
             "owner": "Botspot",
             "repo": "pi-apps",
@@ -508,10 +508,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-06-26T19:45:37Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "hjelev",
             "repo": "rpi-mqtt-monitor",
-            "stars": 326,
+            "stars": 327,
             "topics": [
               "deamon",
               "has",
@@ -1180,11 +1180,11 @@
             "id": 62712899,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-16T06:39:38Z",
-            "open_issues": 1259,
+            "last_commit": "2026-10-20T12:47:12Z",
+            "open_issues": 1255,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37550,
+            "stars": 37572,
             "topics": [
               "adblock",
               "adguard",
@@ -1212,11 +1212,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T09:45:58Z",
-            "open_issues": 53,
+            "last_commit": "2026-10-20T14:53:06Z",
+            "open_issues": 54,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12211,
+            "stars": 12216,
             "topics": [
               "art",
               "audio",
@@ -1249,7 +1249,7 @@
             "open_issues": 85,
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10400,
+            "stars": 10403,
             "topics": [
               "atx",
               "hardware",
@@ -1325,7 +1325,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-10-13T05:09:48Z",
-            "open_issues": 11,
+            "open_issues": 6,
             "owner": "evancohen",
             "repo": "smart-mirror",
             "stars": 2819,
@@ -1355,7 +1355,7 @@
             "open_issues": 14,
             "owner": "rsta2",
             "repo": "circle",
-            "stars": 2330,
+            "stars": 2331,
             "topics": [
               "bare-metal",
               "c-plus-plus",
@@ -1382,7 +1382,7 @@
             "open_issues": 43,
             "owner": "secluso",
             "repo": "core",
-            "stars": 1686,
+            "stars": 1687,
             "topics": [
               "alternative",
               "blink",
@@ -1441,8 +1441,8 @@
             "id": 330776661,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-18T09:10:18Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-20T19:39:55Z",
+            "open_issues": 35,
             "owner": "cooklang",
             "repo": "cookcli",
             "stars": 1415,
@@ -1719,7 +1719,7 @@
             "id": 115350359,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T00:50:59Z",
+            "last_commit": "2026-10-21T00:16:48Z",
             "open_issues": 172,
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
@@ -1956,11 +1956,11 @@
             "id": 1133724679,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-19T12:56:38Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-20T16:29:03Z",
+            "open_issues": 12,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 188,
+            "stars": 187,
             "topics": [
               "ble",
               "body-composition",
@@ -2115,7 +2115,7 @@
             "open_issues": 0,
             "owner": "gavinlyonsrepo",
             "repo": "raspberrypi_tempmon",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "arm",
               "cpu",
@@ -2811,6 +2811,38 @@
         },
         {
           "node_type": "item",
+          "title": "Philosopher",
+          "description": "A conversational-AI plush toy (Raspberry Pi + local LLM) that recognizes faces, reads emotions, remembers people, and talks with configurable personalities (100% local).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Conversational AI plush toy — a laptop \"brain\" (STT · vision · TTS · LangGraph · dual memory) streams over WebSocket to a Raspberry Pi Zero \"body\". Face/emotion aware, multi-personality, runs 100% local.",
+            "homepage": null,
+            "id": 1262232989,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-17T16:38:22Z",
+            "open_issues": 0,
+            "owner": "msalsas",
+            "repo": "philosopher",
+            "stars": 10,
+            "topics": [
+              "ai",
+              "diy",
+              "face-recognition",
+              "langgraph",
+              "llm",
+              "local-first",
+              "plush-toy",
+              "raspberry-pi",
+              "speech-to-text",
+              "text-to-speech"
+            ]
+          },
+          "first_seen": "2026-10-21T05:24:09.029Z"
+        },
+        {
+          "node_type": "item",
           "title": "Ultimate DNS Shield",
           "description": "Self-hosted recursive DNS server using Pi-hole, Unbound and Docker on Raspberry Pi 4.",
           "children": [],
@@ -3208,7 +3240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T05:26:31.017Z",
+    "last_updated": "2026-10-21T05:24:09.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
@@ -3216,11 +3248,11 @@
       "id": 68380413,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-02T08:10:55Z",
-      "open_issues": 39,
+      "last_commit": "2026-10-20T12:53:39Z",
+      "open_issues": 33,
       "owner": "thibmaek",
       "repo": "awesome-raspberry-pi",
-      "stars": 17002,
+      "stars": 17008,
       "topics": [
         "awesome",
         "awesome-list",
@@ -3230,7 +3262,7 @@
         "rpi"
       ]
     },
-    "original_repository_sha": "a2e45c0c521730dcdcd84cef862186bfa9948cbb",
+    "original_repository_sha": "4dfaf27ad9b33375659fdd949110f2ed36d5f63b",
     "enhanced_repository": "enhansome/enhansome-raspberry-pi",
     "enhanced_repository_description": null,
     "title": "Awesome Raspberry Pi with stars"
