@@ -321,7 +321,7 @@
             "open_issues": 293,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9239,
+            "stars": 9241,
             "topics": [
               "ai",
               "bettercap",
@@ -1184,7 +1184,7 @@
             "open_issues": 1256,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37619,
+            "stars": 37648,
             "topics": [
               "adblock",
               "adguard",
@@ -1212,11 +1212,11 @@
             "id": 9746477,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T14:53:06Z",
+            "last_commit": "2026-10-23T19:51:34Z",
             "open_issues": 54,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12219,
+            "stars": 12222,
             "topics": [
               "art",
               "audio",
@@ -1245,7 +1245,7 @@
             "id": 208804714,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-10-17T00:34:52Z",
+            "last_commit": "2026-10-23T07:03:27Z",
             "open_issues": 86,
             "owner": "pikvm",
             "repo": "pikvm",
@@ -1328,7 +1328,7 @@
             "open_issues": 6,
             "owner": "evancohen",
             "repo": "smart-mirror",
-            "stars": 2818,
+            "stars": 2817,
             "topics": [
               "diy",
               "home-automation",
@@ -1351,7 +1351,7 @@
             "id": 25676773,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-22T20:45:25Z",
+            "last_commit": "2026-10-23T16:42:28Z",
             "open_issues": 17,
             "owner": "rsta2",
             "repo": "circle",
@@ -1424,7 +1424,7 @@
             "open_issues": 69,
             "owner": "ChristopheJacquet",
             "repo": "PiFmRds",
-            "stars": 1596,
+            "stars": 1595,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1560,10 +1560,10 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-10-04T19:12:27Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "havenweb",
             "repo": "haven",
-            "stars": 811,
+            "stars": 812,
             "topics": [
               "decentralized",
               "decentralized-web",
@@ -1719,8 +1719,8 @@
             "id": 115350359,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T00:17:20Z",
-            "open_issues": 172,
+            "last_commit": "2026-10-24T00:10:20Z",
+            "open_issues": 174,
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
             "stars": 437,
@@ -1731,6 +1731,43 @@
               "dcsworld",
               "logitech",
               "saitek"
+            ]
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Raspberry Pi Dashboard",
+          "description": "Full-featured web-based dashboard interface to inspect and manage Raspberry Pi hardware and software, with no extra software required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Web-App Dashboard to monitor Raspberry Pi hardware and software status. Nothing more than Webserver + PHP required.",
+            "homepage": null,
+            "id": 272681327,
+            "language": "PHP",
+            "license": "GPL-3.0",
+            "last_commit": "2024-06-26T12:52:43Z",
+            "open_issues": 9,
+            "owner": "femto-code",
+            "repo": "Raspberry-Pi-Dashboard",
+            "stars": 375,
+            "topics": [
+              "dashboard",
+              "monitoring",
+              "php",
+              "raspberry",
+              "raspberry-pi",
+              "raspberry-pi-dashboard",
+              "raspberrypi",
+              "reboot",
+              "rpi",
+              "rpi-dashboard",
+              "rpi-hardware",
+              "shutdown",
+              "web-app",
+              "web-application",
+              "web-interface"
             ]
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1753,43 +1790,6 @@
             "repo": "pi-sensor-free-presence-detector",
             "stars": 373,
             "topics": []
-          },
-          "first_seen": "2026-08-28T12:17:50.926Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Raspberry Pi Dashboard",
-          "description": "Full-featured web-based dashboard interface to inspect and manage Raspberry Pi hardware and software, with no extra software required.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Web-App Dashboard to monitor Raspberry Pi hardware and software status. Nothing more than Webserver + PHP required.",
-            "homepage": null,
-            "id": 272681327,
-            "language": "PHP",
-            "license": "GPL-3.0",
-            "last_commit": "2024-06-26T12:52:43Z",
-            "open_issues": 9,
-            "owner": "femto-code",
-            "repo": "Raspberry-Pi-Dashboard",
-            "stars": 371,
-            "topics": [
-              "dashboard",
-              "monitoring",
-              "php",
-              "raspberry",
-              "raspberry-pi",
-              "raspberry-pi-dashboard",
-              "raspberrypi",
-              "reboot",
-              "rpi",
-              "rpi-dashboard",
-              "rpi-hardware",
-              "shutdown",
-              "web-app",
-              "web-application",
-              "web-interface"
-            ]
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
         },
@@ -1956,11 +1956,11 @@
             "id": 1133724679,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-22T13:09:29Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-23T21:24:13Z",
+            "open_issues": 11,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 189,
+            "stars": 190,
             "topics": [
               "ble",
               "body-composition",
@@ -2906,7 +2906,7 @@
             "id": 901739569,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-18T18:28:37Z",
+            "last_commit": "2026-10-23T23:14:54Z",
             "open_issues": 0,
             "owner": "samartzidis",
             "repo": "NanoBot",
@@ -3026,6 +3026,43 @@
             ]
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
+        },
+        {
+          "node_type": "item",
+          "title": "StickTime Pi",
+          "description": "Raspberry Pi 4 FPV drone simulator for analog goggles, composite out into a 5.8 GHz video transmitter, flown with a real RC radio over WiFi, USB or Bluetooth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Turn a Raspberry Pi into a virtual FPV quad: the StickTime simulator in your analog goggles (composite to a VTX) or over HDMI, flown with your own radio",
+            "homepage": "https://youtu.be/Khq31t_4pqc",
+            "id": 1423261317,
+            "language": "C",
+            "license": "GPL-2.0",
+            "last_commit": "2026-10-23T13:39:50Z",
+            "open_issues": 0,
+            "owner": "juricabi",
+            "repo": "sticktime-pi",
+            "stars": 2,
+            "topics": [
+              "analog-fpv",
+              "composite-video",
+              "crossfire",
+              "drone-simulator",
+              "edgetx",
+              "expresslrs",
+              "fpv",
+              "fpv-simulator",
+              "quadcopter",
+              "raspberry-pi",
+              "raspberry-pi-4",
+              "simulator",
+              "smartaudio",
+              "tramp",
+              "vtx"
+            ]
+          },
+          "first_seen": "2026-10-24T05:07:59.836Z"
         }
       ],
       "title": "Projects"
@@ -3240,7 +3277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T05:28:07.734Z",
+    "last_updated": "2026-10-24T05:07:59.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
@@ -3248,11 +3285,11 @@
       "id": 68380413,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-20T12:53:39Z",
-      "open_issues": 34,
+      "last_commit": "2026-10-23T06:46:31Z",
+      "open_issues": 33,
       "owner": "thibmaek",
       "repo": "awesome-raspberry-pi",
-      "stars": 17015,
+      "stars": 17020,
       "topics": [
         "awesome",
         "awesome-list",
@@ -3262,7 +3299,7 @@
         "rpi"
       ]
     },
-    "original_repository_sha": "4dfaf27ad9b33375659fdd949110f2ed36d5f63b",
+    "original_repository_sha": "7ac92e17200c82c1cd4760a16d67ba30d04f9495",
     "enhanced_repository": "enhansome/enhansome-raspberry-pi",
     "enhanced_repository_description": null,
     "title": "Awesome Raspberry Pi with stars"
