@@ -37,10 +37,10 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2026-09-07T20:54:08Z",
-            "open_issues": 232,
+            "open_issues": 233,
             "owner": "nextcloud",
             "repo": "nextcloudpi",
-            "stars": 2948,
+            "stars": 2949,
             "topics": [
               "arm",
               "nextcloud",
@@ -318,10 +318,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-19T09:02:11Z",
-            "open_issues": 293,
+            "open_issues": 292,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9241,
+            "stars": 9239,
             "topics": [
               "ai",
               "bettercap",
@@ -377,7 +377,7 @@
             "open_issues": 164,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3271,
+            "stars": 3272,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -394,7 +394,7 @@
             "id": 297820951,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T00:55:11Z",
+            "last_commit": "2026-10-25T00:57:33Z",
             "open_issues": 158,
             "owner": "Botspot",
             "repo": "pi-apps",
@@ -746,7 +746,7 @@
             "open_issues": 0,
             "owner": "rosehgal",
             "repo": "tortipi",
-            "stars": 128,
+            "stars": 127,
             "topics": [
               "automation",
               "raspberry-pi",
@@ -1181,10 +1181,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-23T03:14:09Z",
-            "open_issues": 1256,
+            "open_issues": 1260,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37648,
+            "stars": 37677,
             "topics": [
               "adblock",
               "adguard",
@@ -1216,7 +1216,7 @@
             "open_issues": 54,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12222,
+            "stars": 12225,
             "topics": [
               "art",
               "audio",
@@ -1246,10 +1246,10 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2026-10-23T07:03:27Z",
-            "open_issues": 86,
+            "open_issues": 84,
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10411,
+            "stars": 10415,
             "topics": [
               "atx",
               "hardware",
@@ -1328,7 +1328,7 @@
             "open_issues": 6,
             "owner": "evancohen",
             "repo": "smart-mirror",
-            "stars": 2817,
+            "stars": 2818,
             "topics": [
               "diy",
               "home-automation",
@@ -1441,11 +1441,11 @@
             "id": 330776661,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-22T17:08:48Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-24T19:01:31Z",
+            "open_issues": 30,
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1417,
+            "stars": 1418,
             "topics": [
               "cooklang",
               "meal-planning",
@@ -1719,11 +1719,11 @@
             "id": 115350359,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T00:10:20Z",
-            "open_issues": 174,
+            "last_commit": "2026-10-24T23:53:44Z",
+            "open_issues": 175,
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
-            "stars": 437,
+            "stars": 438,
             "topics": [
               "dcs",
               "dcs-bios",
@@ -1903,7 +1903,7 @@
             "id": 179233478,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-22T14:46:44Z",
+            "last_commit": "2026-10-24T17:18:37Z",
             "open_issues": 7,
             "owner": "lomorage",
             "repo": "homepage",
@@ -1960,7 +1960,7 @@
             "open_issues": 11,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 190,
+            "stars": 192,
             "topics": [
               "ble",
               "body-composition",
@@ -2686,7 +2686,7 @@
             "open_issues": 1,
             "owner": "rootzoll",
             "repo": "raspiblitz",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -3043,7 +3043,7 @@
             "open_issues": 0,
             "owner": "juricabi",
             "repo": "sticktime-pi",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "analog-fpv",
               "composite-video",
@@ -3277,7 +3277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T05:07:59.836Z",
+    "last_updated": "2026-10-25T05:23:57.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
@@ -3289,7 +3289,7 @@
       "open_issues": 33,
       "owner": "thibmaek",
       "repo": "awesome-raspberry-pi",
-      "stars": 17020,
+      "stars": 17024,
       "topics": [
         "awesome",
         "awesome-list",
