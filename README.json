@@ -321,7 +321,7 @@
             "open_issues": 292,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9239,
+            "stars": 9240,
             "topics": [
               "ai",
               "bettercap",
@@ -350,7 +350,7 @@
             "open_issues": 22,
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4125,
+            "stars": 4126,
             "topics": [
               "pi-image",
               "raspberry-pi",
@@ -394,11 +394,11 @@
             "id": 297820951,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T00:57:33Z",
+            "last_commit": "2026-10-26T00:58:21Z",
             "open_issues": 158,
             "owner": "Botspot",
             "repo": "pi-apps",
-            "stars": 2834,
+            "stars": 2837,
             "topics": [
               "app-store",
               "arm64",
@@ -549,7 +549,7 @@
             "open_issues": 0,
             "owner": "cjimti",
             "repo": "iotwifi",
-            "stars": 308,
+            "stars": 309,
             "topics": [
               "armhf",
               "armv7",
@@ -1181,10 +1181,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-23T03:14:09Z",
-            "open_issues": 1260,
+            "open_issues": 1262,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37677,
+            "stars": 37705,
             "topics": [
               "adblock",
               "adguard",
@@ -1216,7 +1216,7 @@
             "open_issues": 54,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12225,
+            "stars": 12227,
             "topics": [
               "art",
               "audio",
@@ -1245,11 +1245,11 @@
             "id": 208804714,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T07:03:27Z",
+            "last_commit": "2026-10-25T13:19:23Z",
             "open_issues": 84,
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10415,
+            "stars": 10417,
             "topics": [
               "atx",
               "hardware",
@@ -1286,7 +1286,7 @@
             "open_issues": 90,
             "owner": "samyk",
             "repo": "poisontap",
-            "stars": 6483,
+            "stars": 6484,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1307,7 +1307,7 @@
             "open_issues": 117,
             "owner": "RoganDawes",
             "repo": "P4wnP1",
-            "stars": 4387,
+            "stars": 4388,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1328,7 +1328,7 @@
             "open_issues": 6,
             "owner": "evancohen",
             "repo": "smart-mirror",
-            "stars": 2818,
+            "stars": 2817,
             "topics": [
               "diy",
               "home-automation",
@@ -1355,7 +1355,7 @@
             "open_issues": 17,
             "owner": "rsta2",
             "repo": "circle",
-            "stars": 2333,
+            "stars": 2334,
             "topics": [
               "bare-metal",
               "c-plus-plus",
@@ -1382,7 +1382,7 @@
             "open_issues": 43,
             "owner": "secluso",
             "repo": "core",
-            "stars": 1690,
+            "stars": 1691,
             "topics": [
               "alternative",
               "blink",
@@ -1442,10 +1442,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-24T19:01:31Z",
-            "open_issues": 30,
+            "open_issues": 32,
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1418,
+            "stars": 1419,
             "topics": [
               "cooklang",
               "meal-planning",
@@ -1650,7 +1650,7 @@
             "open_issues": 2,
             "owner": "n0bel",
             "repo": "PiClock",
-            "stars": 587,
+            "stars": 588,
             "topics": [
               "clock",
               "piclock",
@@ -1719,7 +1719,7 @@
             "id": 115350359,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T23:53:44Z",
+            "last_commit": "2026-10-25T23:42:11Z",
             "open_issues": 175,
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
@@ -1914,6 +1914,48 @@
         },
         {
           "node_type": "item",
+          "title": "ble-scale-sync",
+          "description": "Reads BLE smart scales (23 brands) via built-in Bluetooth, calculates body composition, and exports to Garmin Connect, MQTT/Home Assistant, InfluxDB, and more. Website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Universal BLE Smart Scale bridge. Captures body composition from Renpho, Xiaomi & 20+ others, syncs to Garmin Connect, Strava, MQTT (Home Assistant), InfluxDB, Webhooks, Ntfy & local files (CSV/JSONL). Headless CLI for Raspberry Pi, Linux, macOS & Windows.",
+            "homepage": "https://blescalesync.dev",
+            "id": 1133724679,
+            "language": "TypeScript",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-25T14:06:13Z",
+            "open_issues": 13,
+            "owner": "KristianP26",
+            "repo": "ble-scale-sync",
+            "stars": 198,
+            "topics": [
+              "ble",
+              "body-composition",
+              "csv",
+              "garmin",
+              "garmin-connect",
+              "health-data",
+              "home-assistant",
+              "influxdb",
+              "mqtt",
+              "nodejs",
+              "ntfy",
+              "quantified-self",
+              "raspberry-pi",
+              "renpho",
+              "self-hosted",
+              "smart-scale",
+              "strava",
+              "typescript",
+              "webhook",
+              "xiaomi"
+            ]
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
+        },
+        {
+          "node_type": "item",
           "title": "CocktailMaker",
           "description": "An advanced cocktail making machine that can be controlled via browser and touchscreen.",
           "children": [],
@@ -1946,48 +1988,6 @@
         },
         {
           "node_type": "item",
-          "title": "ble-scale-sync",
-          "description": "Reads BLE smart scales (23 brands) via built-in Bluetooth, calculates body composition, and exports to Garmin Connect, MQTT/Home Assistant, InfluxDB, and more. Website.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Universal BLE Smart Scale bridge. Captures body composition from Renpho, Xiaomi & 20+ others, syncs to Garmin Connect, Strava, MQTT (Home Assistant), InfluxDB, Webhooks, Ntfy & local files (CSV/JSONL). Headless CLI for Raspberry Pi, Linux, macOS & Windows.",
-            "homepage": "https://blescalesync.dev",
-            "id": 1133724679,
-            "language": "TypeScript",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-23T21:24:13Z",
-            "open_issues": 11,
-            "owner": "KristianP26",
-            "repo": "ble-scale-sync",
-            "stars": 192,
-            "topics": [
-              "ble",
-              "body-composition",
-              "csv",
-              "garmin",
-              "garmin-connect",
-              "health-data",
-              "home-assistant",
-              "influxdb",
-              "mqtt",
-              "nodejs",
-              "ntfy",
-              "quantified-self",
-              "raspberry-pi",
-              "renpho",
-              "self-hosted",
-              "smart-scale",
-              "strava",
-              "typescript",
-              "webhook",
-              "xiaomi"
-            ]
-          },
-          "first_seen": "2026-08-28T12:17:50.926Z"
-        },
-        {
-          "node_type": "item",
           "title": "Movel",
           "description": "Raspberry Pi car computer.",
           "children": [],
@@ -2002,7 +2002,7 @@
             "open_issues": 1,
             "owner": "stephenlacy",
             "repo": "movel",
-            "stars": 156,
+            "stars": 157,
             "topics": [
               "car",
               "car-computer",
@@ -2029,7 +2029,7 @@
             "open_issues": 0,
             "owner": "dpipstudio",
             "repo": "botwave",
-            "stars": 143,
+            "stars": 144,
             "topics": [
               "automation",
               "botwave",
@@ -2214,7 +2214,7 @@
             "open_issues": 0,
             "owner": "atao",
             "repo": "raspberrypi-setup",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "ansible",
               "automation",
@@ -2575,7 +2575,7 @@
             "open_issues": 0,
             "owner": "anshulahuja98",
             "repo": "pi_payments",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "python3",
               "raspberry-pi",
@@ -2896,6 +2896,43 @@
         },
         {
           "node_type": "item",
+          "title": "StickTime Pi",
+          "description": "Raspberry Pi 4 FPV drone simulator for analog goggles, composite out into a 5.8 GHz video transmitter, flown with a real RC radio over WiFi, USB or Bluetooth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Turn a Raspberry Pi into a virtual FPV quad: the StickTime simulator in your analog goggles (composite to a VTX) or over HDMI, flown with your own radio",
+            "homepage": "https://youtu.be/Khq31t_4pqc",
+            "id": 1423261317,
+            "language": "C",
+            "license": "GPL-2.0",
+            "last_commit": "2026-10-23T13:39:50Z",
+            "open_issues": 0,
+            "owner": "juricabi",
+            "repo": "sticktime-pi",
+            "stars": 5,
+            "topics": [
+              "analog-fpv",
+              "composite-video",
+              "crossfire",
+              "drone-simulator",
+              "edgetx",
+              "expresslrs",
+              "fpv",
+              "fpv-simulator",
+              "quadcopter",
+              "raspberry-pi",
+              "raspberry-pi-4",
+              "simulator",
+              "smartaudio",
+              "tramp",
+              "vtx"
+            ]
+          },
+          "first_seen": "2026-10-24T05:07:59.836Z"
+        },
+        {
+          "node_type": "item",
           "title": "NanoBot AI Chat Robot",
           "description": "Raspberry Pi powered AI chat robot, ideal for education and teaching assistance.",
           "children": [],
@@ -2906,7 +2943,7 @@
             "id": 901739569,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-23T23:14:54Z",
+            "last_commit": "2026-10-26T00:43:23Z",
             "open_issues": 0,
             "owner": "samartzidis",
             "repo": "NanoBot",
@@ -3026,43 +3063,6 @@
             ]
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
-        },
-        {
-          "node_type": "item",
-          "title": "StickTime Pi",
-          "description": "Raspberry Pi 4 FPV drone simulator for analog goggles, composite out into a 5.8 GHz video transmitter, flown with a real RC radio over WiFi, USB or Bluetooth.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Turn a Raspberry Pi into a virtual FPV quad: the StickTime simulator in your analog goggles (composite to a VTX) or over HDMI, flown with your own radio",
-            "homepage": "https://youtu.be/Khq31t_4pqc",
-            "id": 1423261317,
-            "language": "C",
-            "license": "GPL-2.0",
-            "last_commit": "2026-10-23T13:39:50Z",
-            "open_issues": 0,
-            "owner": "juricabi",
-            "repo": "sticktime-pi",
-            "stars": 3,
-            "topics": [
-              "analog-fpv",
-              "composite-video",
-              "crossfire",
-              "drone-simulator",
-              "edgetx",
-              "expresslrs",
-              "fpv",
-              "fpv-simulator",
-              "quadcopter",
-              "raspberry-pi",
-              "raspberry-pi-4",
-              "simulator",
-              "smartaudio",
-              "tramp",
-              "vtx"
-            ]
-          },
-          "first_seen": "2026-10-24T05:07:59.836Z"
         }
       ],
       "title": "Projects"
@@ -3277,7 +3277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T05:23:57.298Z",
+    "last_updated": "2026-10-26T05:28:08.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
@@ -3286,10 +3286,10 @@
       "language": "Shell",
       "license": "NOASSERTION",
       "last_commit": "2026-10-23T06:46:31Z",
-      "open_issues": 33,
+      "open_issues": 29,
       "owner": "thibmaek",
       "repo": "awesome-raspberry-pi",
-      "stars": 17024,
+      "stars": 17031,
       "topics": [
         "awesome",
         "awesome-list",
