@@ -93,7 +93,7 @@
             "open_issues": 16,
             "owner": "DroneBridge",
             "repo": "DroneBridge",
-            "stars": 953,
+            "stars": 954,
             "topics": [
               "aerial-imagery",
               "ardupilot",
@@ -321,7 +321,7 @@
             "open_issues": 292,
             "owner": "evilsocket",
             "repo": "pwnagotchi",
-            "stars": 9242,
+            "stars": 9244,
             "topics": [
               "ai",
               "bettercap",
@@ -350,7 +350,7 @@
             "open_issues": 22,
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4127,
+            "stars": 4129,
             "topics": [
               "pi-image",
               "raspberry-pi",
@@ -394,11 +394,11 @@
             "id": 297820951,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-28T00:45:21Z",
-            "open_issues": 158,
+            "last_commit": "2026-10-29T00:47:53Z",
+            "open_issues": 159,
             "owner": "Botspot",
             "repo": "pi-apps",
-            "stars": 2841,
+            "stars": 2842,
             "topics": [
               "app-store",
               "arm64",
@@ -462,7 +462,7 @@
             "open_issues": 11,
             "owner": "gitbls",
             "repo": "sdm",
-            "stars": 763,
+            "stars": 764,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1174,7 +1174,7 @@
             "id": 1417598285,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T12:09:11Z",
+            "last_commit": "2026-10-29T03:58:39Z",
             "open_issues": 7,
             "owner": "MilkteaTW1",
             "repo": "piscout",
@@ -1286,10 +1286,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-27T13:03:14Z",
-            "open_issues": 1262,
+            "open_issues": 1260,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37783,
+            "stars": 37820,
             "topics": [
               "adblock",
               "adguard",
@@ -1321,7 +1321,7 @@
             "open_issues": 54,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12232,
+            "stars": 12235,
             "topics": [
               "art",
               "audio",
@@ -1354,7 +1354,7 @@
             "open_issues": 84,
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10423,
+            "stars": 10424,
             "topics": [
               "atx",
               "hardware",
@@ -1456,8 +1456,8 @@
             "id": 25676773,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-26T09:48:03Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-28T07:41:25Z",
+            "open_issues": 14,
             "owner": "rsta2",
             "repo": "circle",
             "stars": 2335,
@@ -1487,7 +1487,7 @@
             "open_issues": 43,
             "owner": "secluso",
             "repo": "core",
-            "stars": 1691,
+            "stars": 1692,
             "topics": [
               "alternative",
               "blink",
@@ -1546,11 +1546,11 @@
             "id": 330776661,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-27T19:24:57Z",
+            "last_commit": "2026-10-28T21:17:59Z",
             "open_issues": 35,
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1422,
+            "stars": 1423,
             "topics": [
               "cooklang",
               "meal-planning",
@@ -1647,7 +1647,7 @@
             "open_issues": 6,
             "owner": "otem",
             "repo": "Raspberry-Pi-Looper-synth-drum-thing",
-            "stars": 1028,
+            "stars": 1029,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -1668,7 +1668,7 @@
             "open_issues": 19,
             "owner": "havenweb",
             "repo": "haven",
-            "stars": 811,
+            "stars": 812,
             "topics": [
               "decentralized",
               "decentralized-web",
@@ -1679,6 +1679,48 @@
             ]
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RustChain",
+          "description": "Proof-of-Antiquity blockchain that rewards vintage and edge hardware including Raspberry Pi for mining. DePIN infrastructure for IoT devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU architectures prove they are real silicon, not VM farms. Agent economy, micropayments, Solana bridge (wRTC). $0 VC.",
+            "homepage": "https://rustchain.org",
+            "id": 970157421,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-08T01:46:05Z",
+            "open_issues": 170,
+            "owner": "Scottcjn",
+            "repo": "Rustchain",
+            "stars": 683,
+            "topics": [
+              "agent-authentication",
+              "agent-economy",
+              "ai",
+              "ai-agents",
+              "blockchain",
+              "cryptocurrency",
+              "decentralized",
+              "depin",
+              "green-computing",
+              "hardware-attestation",
+              "hardware-fingerprinting",
+              "micropayments",
+              "mining",
+              "multi-agent-systems",
+              "open-source",
+              "proof-of-antiquity",
+              "solana",
+              "sovereign-inference",
+              "sybil-resistance",
+              "vintage-hardware"
+            ]
+          },
+          "first_seen": "2026-10-29T06:33:17.893Z"
         },
         {
           "node_type": "item",
@@ -1824,11 +1866,11 @@
             "id": 115350359,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-28T00:51:06Z",
+            "last_commit": "2026-10-29T01:27:12Z",
             "open_issues": 176,
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
-            "stars": 438,
+            "stars": 439,
             "topics": [
               "dcs",
               "dcs-bios",
@@ -1956,7 +1998,7 @@
             "open_issues": 13,
             "owner": "AristoChen",
             "repo": "usb-proxy",
-            "stars": 289,
+            "stars": 290,
             "topics": [
               "libusb",
               "man-in-the-middle",
@@ -2008,8 +2050,8 @@
             "id": 179233478,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-27T16:27:51Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-28T16:13:30Z",
+            "open_issues": 7,
             "owner": "lomorage",
             "repo": "homepage",
             "stars": 240,
@@ -2029,7 +2071,7 @@
             "id": 1133724679,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-28T00:43:52Z",
+            "last_commit": "2026-10-28T15:08:04Z",
             "open_issues": 17,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
@@ -2134,7 +2176,7 @@
             "open_issues": 0,
             "owner": "dpipstudio",
             "repo": "botwave",
-            "stars": 145,
+            "stars": 144,
             "topics": [
               "automation",
               "botwave",
@@ -2216,7 +2258,7 @@
             "id": 1170034109,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T18:30:08Z",
+            "last_commit": "2026-10-28T20:56:02Z",
             "open_issues": 4,
             "owner": "meshsat",
             "repo": "meshsat",
@@ -2383,7 +2425,7 @@
             "id": 389029140,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-07T07:32:19Z",
+            "last_commit": "2026-10-28T09:52:59Z",
             "open_issues": 0,
             "owner": "atao",
             "repo": "raspberrypi-setup",
@@ -2506,31 +2548,6 @@
         },
         {
           "node_type": "item",
-          "title": "Wordpress using Docker",
-          "description": "Run a Wordpress site in containers with dynamic DNS.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Easy way to run wordpress on a Raspberry Pi with Docker :whale:",
-            "homepage": null,
-            "id": 66695799,
-            "language": "Shell",
-            "license": null,
-            "last_commit": "2016-09-04T15:56:59Z",
-            "open_issues": 0,
-            "owner": "rothgar",
-            "repo": "rpi-wordpress",
-            "stars": 48,
-            "topics": [
-              "docker",
-              "raspberry-pi",
-              "wordpress"
-            ]
-          },
-          "first_seen": "2026-08-28T12:17:50.926Z"
-        },
-        {
-          "node_type": "item",
           "title": "HookProbe",
           "description": "AI-native intrusion detection system with eBPF/XDP packet filtering and ML threat classification. Processes 8.8M+ security events on a Pi 5.",
           "children": [],
@@ -2545,7 +2562,7 @@
             "open_issues": 0,
             "owner": "hookprobe",
             "repo": "hookprobe",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "ai-security",
               "cybersecurity",
@@ -2567,6 +2584,31 @@
               "threat-intelligence",
               "xdp",
               "zero-trust"
+            ]
+          },
+          "first_seen": "2026-08-28T12:17:50.926Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Wordpress using Docker",
+          "description": "Run a Wordpress site in containers with dynamic DNS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Easy way to run wordpress on a Raspberry Pi with Docker :whale:",
+            "homepage": null,
+            "id": 66695799,
+            "language": "Shell",
+            "license": null,
+            "last_commit": "2016-09-04T15:56:59Z",
+            "open_issues": 0,
+            "owner": "rothgar",
+            "repo": "rpi-wordpress",
+            "stars": 48,
+            "topics": [
+              "docker",
+              "raspberry-pi",
+              "wordpress"
             ]
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -2783,7 +2825,7 @@
             "open_issues": 0,
             "owner": "Barqawiz",
             "repo": "iot_watering_system",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "arduino",
               "iot",
@@ -2867,7 +2909,7 @@
             "open_issues": 0,
             "owner": "tvup",
             "repo": "idle-less",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "docker",
               "energy-saving",
@@ -3230,7 +3272,7 @@
             "id": 1305668418,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T03:13:13Z",
+            "last_commit": "2026-10-29T02:58:53Z",
             "open_issues": 6,
             "owner": "mikecann",
             "repo": "cannvas",
@@ -3462,7 +3504,7 @@
                 "open_issues": 121,
                 "owner": "moonlight-stream",
                 "repo": "moonlight-embedded",
-                "stars": 1666,
+                "stars": 1667,
                 "topics": [
                   "gamestream",
                   "moonlight"
@@ -3623,7 +3665,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T06:22:32.381Z",
+    "last_updated": "2026-10-29T06:33:17.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
@@ -3635,7 +3677,7 @@
       "open_issues": 17,
       "owner": "thibmaek",
       "repo": "awesome-raspberry-pi",
-      "stars": 17040,
+      "stars": 17049,
       "topics": [
         "awesome",
         "awesome-list",
