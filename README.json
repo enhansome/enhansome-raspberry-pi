@@ -19,7 +19,7 @@
             "open_issues": 841,
             "owner": "motioneye-project",
             "repo": "motioneyeos",
-            "stars": 8215,
+            "stars": 8214,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -40,7 +40,7 @@
             "open_issues": 233,
             "owner": "nextcloud",
             "repo": "nextcloudpi",
-            "stars": 2949,
+            "stars": 2951,
             "topics": [
               "arm",
               "nextcloud",
@@ -350,7 +350,7 @@
             "open_issues": 22,
             "owner": "Drewsif",
             "repo": "PiShrink",
-            "stars": 4129,
+            "stars": 4130,
             "topics": [
               "pi-image",
               "raspberry-pi",
@@ -374,10 +374,10 @@
             "language": "Shell",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-26T16:21:05Z",
-            "open_issues": 164,
+            "open_issues": 163,
             "owner": "RPi-Distro",
             "repo": "pi-gen",
-            "stars": 3272,
+            "stars": 3276,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -394,7 +394,7 @@
             "id": 297820951,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-29T00:47:53Z",
+            "last_commit": "2026-10-30T00:45:22Z",
             "open_issues": 159,
             "owner": "Botspot",
             "repo": "pi-apps",
@@ -511,7 +511,7 @@
             "open_issues": 11,
             "owner": "hjelev",
             "repo": "rpi-mqtt-monitor",
-            "stars": 328,
+            "stars": 329,
             "topics": [
               "deamon",
               "has",
@@ -1174,7 +1174,7 @@
             "id": 1417598285,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-29T03:58:39Z",
+            "last_commit": "2026-10-29T16:11:03Z",
             "open_issues": 7,
             "owner": "MilkteaTW1",
             "repo": "piscout",
@@ -1286,10 +1286,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-10-27T13:03:14Z",
-            "open_issues": 1260,
+            "open_issues": 1263,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 37820,
+            "stars": 37909,
             "topics": [
               "adblock",
               "adguard",
@@ -1321,7 +1321,7 @@
             "open_issues": 54,
             "owner": "sonic-pi-net",
             "repo": "sonic-pi",
-            "stars": 12235,
+            "stars": 12238,
             "topics": [
               "art",
               "audio",
@@ -1354,7 +1354,7 @@
             "open_issues": 84,
             "owner": "pikvm",
             "repo": "pikvm",
-            "stars": 10424,
+            "stars": 10426,
             "topics": [
               "atx",
               "hardware",
@@ -1460,7 +1460,7 @@
             "open_issues": 14,
             "owner": "rsta2",
             "repo": "circle",
-            "stars": 2335,
+            "stars": 2337,
             "topics": [
               "bare-metal",
               "c-plus-plus",
@@ -1550,7 +1550,7 @@
             "open_issues": 35,
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1423,
+            "stars": 1424,
             "topics": [
               "cooklang",
               "meal-planning",
@@ -1578,7 +1578,7 @@
             "open_issues": 121,
             "owner": "cyoung",
             "repo": "stratux",
-            "stars": 1135,
+            "stars": 1134,
             "topics": [
               "aviation",
               "rtl-sdr",
@@ -1605,7 +1605,7 @@
             "open_issues": 20,
             "owner": "pageauc",
             "repo": "speed-camera",
-            "stars": 1111,
+            "stars": 1112,
             "topics": [
               "matplotlib-pyplot",
               "motion-tracking",
@@ -1692,11 +1692,11 @@
             "id": 970157421,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T01:46:05Z",
-            "open_issues": 170,
+            "last_commit": "2026-10-30T04:41:47Z",
+            "open_issues": 174,
             "owner": "Scottcjn",
             "repo": "Rustchain",
-            "stars": 683,
+            "stars": 684,
             "topics": [
               "agent-authentication",
               "agent-economy",
@@ -1866,11 +1866,11 @@
             "id": 115350359,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-29T01:27:12Z",
-            "open_issues": 176,
+            "last_commit": "2026-10-30T01:29:02Z",
+            "open_issues": 177,
             "owner": "DCS-Skunkworks",
             "repo": "dcs-bios",
-            "stars": 439,
+            "stars": 440,
             "topics": [
               "dcs",
               "dcs-bios",
@@ -1995,7 +1995,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-04-11T09:33:56Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "AristoChen",
             "repo": "usb-proxy",
             "stars": 290,
@@ -2033,7 +2033,7 @@
             "open_issues": 32,
             "owner": "SecPi",
             "repo": "SecPi",
-            "stars": 261,
+            "stars": 262,
             "topics": []
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
@@ -2071,11 +2071,11 @@
             "id": 1133724679,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-28T15:08:04Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-29T16:46:02Z",
+            "open_issues": 14,
             "owner": "KristianP26",
             "repo": "ble-scale-sync",
-            "stars": 207,
+            "stars": 208,
             "topics": [
               "ble",
               "body-composition",
@@ -2176,7 +2176,7 @@
             "open_issues": 0,
             "owner": "dpipstudio",
             "repo": "botwave",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "automation",
               "botwave",
@@ -2258,8 +2258,8 @@
             "id": 1170034109,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-28T20:56:02Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-29T18:35:06Z",
+            "open_issues": 3,
             "owner": "meshsat",
             "repo": "meshsat",
             "stars": 93,
@@ -2895,38 +2895,6 @@
         },
         {
           "node_type": "item",
-          "title": "idle-less",
-          "description": "Docker-based nginx reverse proxy that wakes sleeping servers via Wake-on-LAN, ideal for energy-saving Raspberry Pi homelabs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Docker reverse proxy with automatic Wake-on-LAN — wakes sleeping servers when traffic arrives. Save €300/year per server. 🔌💤→⚡",
-            "homepage": "https://tvup.github.io/idle-less/",
-            "id": 1124427898,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-10-27T12:03:48Z",
-            "open_issues": 0,
-            "owner": "tvup",
-            "repo": "idle-less",
-            "stars": 26,
-            "topics": [
-              "docker",
-              "energy-saving",
-              "homelab",
-              "nginx",
-              "power-management",
-              "raspberry-pi",
-              "reverse-proxy",
-              "self-hosted",
-              "wake-on-lan",
-              "wol"
-            ]
-          },
-          "first_seen": "2026-08-28T12:17:50.926Z"
-        },
-        {
-          "node_type": "item",
           "title": "NALIVATOR-9000",
           "description": "Robot bartender for making cocktails with Telegram-bot interface and speech synthesis on Golang.",
           "children": [],
@@ -3225,6 +3193,44 @@
         },
         {
           "node_type": "item",
+          "title": "Coffee Edition",
+          "description": "A two-page newspaper printed every morning by a Raspberry Pi Pico W or Pico 2 W, written overnight by a Claude Code routine, checked by GitHub Actions and streamed to a network printer over IPP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A newspaper your printer prints every morning: a Claude routine writes it overnight from your notes, GitHub Actions lays it out and checks every page, a Raspberry Pi Pico W prints it.",
+            "homepage": "https://erolsen.dev/writing/coffee-edition",
+            "id": 1420473084,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-23T10:15:42Z",
+            "open_issues": 0,
+            "owner": "ierolsen",
+            "repo": "coffee-edition-kit",
+            "stars": 5,
+            "topics": [
+              "ai-agents",
+              "airprint",
+              "arxiv",
+              "automation",
+              "claude",
+              "claude-code",
+              "diy",
+              "github-actions",
+              "huggingface",
+              "ipp",
+              "llm",
+              "micropython",
+              "newspaper",
+              "pico-w",
+              "printer",
+              "raspberry-pi-pico"
+            ]
+          },
+          "first_seen": "2026-10-27T05:44:10.151Z"
+        },
+        {
+          "node_type": "item",
           "title": "StickTime Pi",
           "description": "Raspberry Pi 4 FPV drone simulator for analog goggles, composite out into a 5.8 GHz video transmitter, flown with a real RC radio over WiFi, USB or Bluetooth.",
           "children": [],
@@ -3293,7 +3299,7 @@
             "id": 901739569,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-27T09:12:34Z",
+            "last_commit": "2026-10-29T21:35:34Z",
             "open_issues": 0,
             "owner": "samartzidis",
             "repo": "NanoBot",
@@ -3329,44 +3335,6 @@
             ]
           },
           "first_seen": "2026-08-28T12:17:50.926Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Coffee Edition",
-          "description": "A two-page newspaper printed every morning by a Raspberry Pi Pico W or Pico 2 W, written overnight by a Claude Code routine, checked by GitHub Actions and streamed to a network printer over IPP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A newspaper your printer prints every morning: a Claude routine writes it overnight from your notes, GitHub Actions lays it out and checks every page, a Raspberry Pi Pico W prints it.",
-            "homepage": "https://erolsen.dev/writing/coffee-edition",
-            "id": 1420473084,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-23T10:15:42Z",
-            "open_issues": 0,
-            "owner": "ierolsen",
-            "repo": "coffee-edition-kit",
-            "stars": 3,
-            "topics": [
-              "ai-agents",
-              "airprint",
-              "arxiv",
-              "automation",
-              "claude",
-              "claude-code",
-              "diy",
-              "github-actions",
-              "huggingface",
-              "ipp",
-              "llm",
-              "micropython",
-              "newspaper",
-              "pico-w",
-              "printer",
-              "raspberry-pi-pico"
-            ]
-          },
-          "first_seen": "2026-10-27T05:44:10.151Z"
         },
         {
           "node_type": "item",
@@ -3585,7 +3553,7 @@
                 "open_issues": 36,
                 "owner": "uraimo",
                 "repo": "SwiftyGPIO",
-                "stars": 1366,
+                "stars": 1367,
                 "topics": [
                   "1-wire",
                   "gpio",
@@ -3665,7 +3633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T06:33:17.893Z",
+    "last_updated": "2026-10-30T06:32:39.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
@@ -3677,7 +3645,7 @@
       "open_issues": 17,
       "owner": "thibmaek",
       "repo": "awesome-raspberry-pi",
-      "stars": 17049,
+      "stars": 17056,
       "topics": [
         "awesome",
         "awesome-list",
